@@ -1,0 +1,26 @@
+{
+  "requested_country_year_pairs": 60,
+  "oecd_rows": 60,
+  "worldbank_rows": 60,
+  "oecd_nonmissing": 60,
+  "worldbank_nonmissing": 60,
+  "duplicate_keys": 0,
+  "matched_pairs": 60,
+  "unmatched": [],
+  "oecd_status_counts": {
+    "A": 60
+  },
+  "oecd_multiplier_counts": {
+    "0": 60
+  },
+  "worldbank_footnote_rows": 3,
+  "warning_pair_count": 9,
+  "sensitivity_excluded_pairs": 5,
+  "sensitivity_pair_count": 55,
+  "change_pairs": 56,
+  "sensitivity_change_count": 50,
+  "unit_check": "OECD PS × 10^UNIT_MULT → persons; World Bank Unit + total population definition → persons. Raw WB unit field is blank.",
+  "no_imputation": true,
+  "no_interpolation": true,
+  "worldbank_lastupdated": "2026-07-13"
+}

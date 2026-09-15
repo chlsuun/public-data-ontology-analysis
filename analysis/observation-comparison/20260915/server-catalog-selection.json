@@ -1,0 +1,269 @@
+{
+  "selection_candidates": [
+    {
+      "id": "oecd:OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST",
+      "source_id": "oecd",
+      "title": "Historical population data",
+      "metadata": {
+        "access_paths": [
+          "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_POPULATION@DF_POP_HIST,1.0"
+        ],
+        "checked_at": "2026-09-14T15:01:10+00:00",
+        "collection_method": "official_sdmx_dataflow_registry",
+        "description": "This dataset presents annual population data from 1961 by sex and five year age groups as well as the share of children, youth, the elderly, old-age and total dependency ratios. The data is available for all member countries as well as for the EU27 and G20 countries, Argentina, Brazil, China, India, Indonesia, Russia, Saudi Arabia, Singapore, South Africa and the World total. The data refer to mid-year estimates of the population. See country details in Historical population metadata .",
+        "external_id": "OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST",
+        "fingerprint": "e1021b996661d31711d0f22c8b0c35b4124ec13af2d74f03796d3d96f8056e40",
+        "format": "SDMX",
+        "id": "oecd:OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST",
+        "license": "제공처 확인",
+        "metadata_url": "https://sdmx.oecd.org/public/rest/dataflow/OECD.ELS.SAE/DSD_POPULATION@DF_POP_HIST/1.0",
+        "method": "api",
+        "native_id": "DSD_POPULATION@DF_POP_HIST",
+        "native_nonproduction_annotation": "true",
+        "native_version": "1.0",
+        "period": "미상",
+        "publisher": "OECD.ELS.SAE",
+        "region": "미상",
+        "source_id": "oecd",
+        "title": "Historical population data",
+        "url": "https://data-explorer.oecd.org/vis?df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bag%5D=OECD.ELS.SAE&df%5Bid%5D=DSD_POPULATION%40DF_POP_HIST&df%5Bvs%5D=1.0"
+      },
+      "mappings": [
+        {
+          "classified_at": "2026-09-14T19:29:45+00:00",
+          "concept_id": "population",
+          "evidence": "제목 표현 정규화 후 “population” 확인: Historical population data",
+          "method": "keyword",
+          "status": "classified"
+        }
+      ]
+    },
+    {
+      "id": "worldbank:source-2",
+      "source_id": "worldbank",
+      "title": "World Development Indicators",
+      "metadata": {
+        "checked_at": "2026-09-14T13:17:23+00:00",
+        "description": "",
+        "external_id": "source-2",
+        "fingerprint": "dc9007dfe8ca85affd1477cbe9329e484da4b0fc8acfe5134ff9b1d6d74be7cd",
+        "format": "데이터베이스 / 이용 안내",
+        "id": "worldbank:source-2",
+        "license": "제공처 확인",
+        "metadata_url": "https://api.worldbank.org/v2/sources/2?format=json",
+        "method": "api",
+        "period": "미상",
+        "publisher": "World Bank",
+        "region": "여러 국가·지역",
+        "source_id": "worldbank",
+        "source_modified": "2026-07-13",
+        "title": "World Development Indicators",
+        "url": "https://databank.worldbank.org/source/2"
+      },
+      "mappings": [
+        {
+          "concept_id": "development",
+          "evidence": "제목 표현 정규화 후 “Development Indicators” 확인: World Development Indicators",
+          "method": "keyword",
+          "status": "proposed"
+        }
+      ]
+    },
+    {
+      "id": "eurostat:demo_pjan",
+      "source_id": "eurostat",
+      "title": "Population on 1 January by age and sex",
+      "metadata": {
+        "checked_at": "2026-09-14T13:12:40+00:00",
+        "collection_method": "official_catalog_export",
+        "description": "",
+        "external_id": "demo_pjan",
+        "fingerprint": "f888be10e48ba91fcdc0a30a7cd343c83c598c08d10aa9a70cea5d4bb500ade0",
+        "format": "제공처 확인",
+        "id": "eurostat:demo_pjan",
+        "license": "제공처 확인",
+        "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/txt?lang=en",
+        "method": "api",
+        "native_type": "dataset",
+        "period": "1960 / 2025",
+        "publisher": "Eurostat",
+        "region": "미상",
+        "source_id": "eurostat",
+        "source_modified": "14.08.2026",
+        "title": "Population on 1 January by age and sex",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table?lang=en",
+        "subjects": [
+          {
+            "kind": "tag",
+            "label": "Population (national level)",
+            "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/xml"
+          },
+          {
+            "kind": "tag",
+            "label": "Demography, population stock and balance",
+            "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/xml"
+          },
+          {
+            "kind": "tag",
+            "label": "Population and social conditions",
+            "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/xml"
+          }
+        ]
+      },
+      "mappings": [
+        {
+          "classified_at": "2026-09-14T18:59:00+00:00",
+          "concept_id": "population",
+          "evidence": "제목 표현 정규화 후 “Population” 확인: Population on 1 January by age and sex",
+          "method": "keyword",
+          "status": "classified"
+        }
+      ]
+    },
+    {
+      "id": "eurostat:demo_gind",
+      "source_id": "eurostat",
+      "title": "Population change - Demographic balance and crude rates at national level",
+      "metadata": {
+        "checked_at": "2026-09-14T13:12:40+00:00",
+        "collection_method": "official_catalog_export",
+        "description": "",
+        "external_id": "demo_gind",
+        "fingerprint": "f71e5136ca57d158c62b4bb5bec3c218ac4bc605323a4c32722fe918bb6defc4",
+        "format": "제공처 확인",
+        "id": "eurostat:demo_gind",
+        "license": "제공처 확인",
+        "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/txt?lang=en",
+        "method": "api",
+        "native_type": "dataset",
+        "period": "1960 / 2026",
+        "publisher": "Eurostat",
+        "region": "미상",
+        "source_id": "eurostat",
+        "source_modified": "21.07.2026",
+        "title": "Population change - Demographic balance and crude rates at national level",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_gind/default/table?lang=en",
+        "subjects": [
+          {
+            "kind": "tag",
+            "label": "Main population indicators",
+            "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/xml"
+          },
+          {
+            "kind": "tag",
+            "label": "Demography, population stock and balance",
+            "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/xml"
+          },
+          {
+            "kind": "tag",
+            "label": "Population and social conditions",
+            "metadata_url": "https://ec.europa.eu/eurostat/api/dissemination/catalogue/toc/xml"
+          }
+        ]
+      },
+      "mappings": [
+        {
+          "classified_at": "2026-09-14T18:59:00+00:00",
+          "concept_id": "population",
+          "evidence": "제목 표현 정규화 후 “Population” 확인: Population change Demographic balance and crude rates at national level",
+          "method": "keyword",
+          "status": "classified"
+        }
+      ]
+    },
+    {
+      "id": "kosis:101:DT_1B04006",
+      "source_id": "kosis",
+      "title": "행정구역(시군구)별/1세별 주민등록인구",
+      "metadata": {
+        "checked_at": "2026-09-14T13:59:18+00:00",
+        "collection_method": "official_catalog_export",
+        "description": "",
+        "external_id": "101:DT_1B04006",
+        "fingerprint": "2ec71443c2a37d2c038724db5c7662a04a63d4127ae709ba27dd5fff98444688",
+        "format": "제공처 확인",
+        "id": "kosis:101:DT_1B04006",
+        "license": "제공처 확인",
+        "metadata_url": "https://kosis.kr/downXLS/ZTITLE.zip",
+        "method": "api",
+        "native_catalog_path": "주제별통계 > 인구 > 주민등록인구현황 > 행정구역(시군구)별/1세별 주민등록인구",
+        "native_catalog_paths": [
+          "주제별통계 > 인구 > 주민등록인구현황 > 행정구역(시군구)별/1세별 주민등록인구"
+        ],
+        "native_id": "DT_1B04006",
+        "native_publisher_id": "101",
+        "period": "년 (2008 ~ 2025) , 월 (200801 ~ 202608)",
+        "publisher": "행정안전부,「주민등록인구현황」",
+        "region": "미상",
+        "source_export_date": "2026.09.14",
+        "source_export_link": "http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04006&lang_mode=ko&vw_cd=MT_ZTITLE&list_id=A_7&conn_path=I4",
+        "source_id": "kosis",
+        "title": "행정구역(시군구)별/1세별 주민등록인구",
+        "url": "https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B04006"
+      },
+      "mappings": [
+        {
+          "classified_at": "2026-09-14T19:13:48+00:00",
+          "concept_id": "population",
+          "evidence": "제목 표현 정규화 후 “인구” 확인: 행정구역(시군구)별/1세별 주민등록인구",
+          "method": "keyword",
+          "status": "classified"
+        },
+        {
+          "classified_at": "2026-09-14T19:13:48+00:00",
+          "concept_id": "geography",
+          "evidence": "제목 표현 정규화 후 “행정구역” 확인: 행정구역(시군구)별/1세별 주민등록인구",
+          "method": "keyword",
+          "status": "classified"
+        },
+        {
+          "classified_at": "2026-09-14T19:13:48+00:00",
+          "concept_id": "government",
+          "evidence": "제목 표현 정규화 후 “행정” 확인: 행정구역(시군구)별/1세별 주민등록인구",
+          "method": "keyword",
+          "status": "classified"
+        }
+      ]
+    },
+    {
+      "id": "kosis:101:DT_1DA7102S",
+      "source_id": "kosis",
+      "title": "성/연령별 실업률",
+      "metadata": {
+        "checked_at": "2026-09-14T13:59:23+00:00",
+        "collection_method": "official_catalog_export",
+        "description": "",
+        "external_id": "101:DT_1DA7102S",
+        "fingerprint": "b63e650195a98bad8d42f38733b4dbc4b21ce38f342028f04e63e9801bb55cdd",
+        "format": "제공처 확인",
+        "id": "kosis:101:DT_1DA7102S",
+        "license": "제공처 확인",
+        "metadata_url": "https://kosis.kr/downXLS/ZTITLE.zip",
+        "method": "api",
+        "native_catalog_path": "주제별통계 > 노동 > 경제활동인구조사 > 실업률(구직기간 4주 기준, 1999. 5월 이전자료는 경제활동인구총괄 1주기준 참조) > 성/연령별 실업률",
+        "native_catalog_paths": [
+          "주제별통계 > 노동 > 경제활동인구조사 > 실업률(구직기간 4주 기준, 1999. 5월 이전자료는 경제활동인구총괄 1주기준 참조) > 성/연령별 실업률"
+        ],
+        "native_id": "DT_1DA7102S",
+        "native_publisher_id": "101",
+        "period": "년 (2000 ~ 2025) , 분기 (199903 ~ 202602) , 월 (199906 ~ 202608)",
+        "publisher": "국가데이터처,「경제활동인구조사」",
+        "region": "미상",
+        "source_export_date": "2026.09.14",
+        "source_export_link": "http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7102S&lang_mode=ko&vw_cd=MT_ZTITLE&list_id=B15&conn_path=I4",
+        "source_id": "kosis",
+        "title": "성/연령별 실업률",
+        "url": "https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7102S"
+      },
+      "mappings": [
+        {
+          "classified_at": "2026-09-14T19:14:12+00:00",
+          "concept_id": "employment",
+          "evidence": "제목 표현 정규화 후 “실업” 확인: 성/연령별 실업률",
+          "method": "keyword",
+          "status": "classified"
+        }
+      ]
+    }
+  ]
+}

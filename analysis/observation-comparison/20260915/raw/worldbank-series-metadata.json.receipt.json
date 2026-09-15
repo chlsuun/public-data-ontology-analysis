@@ -1,0 +1,17 @@
+{
+  "url": "https://api.worldbank.org/v2/sources/2/series/SP.POP.TOTL/metadata?format=json",
+  "started_at": "2026-09-15T13:14:42.477121+00:00",
+  "accept": "application/json",
+  "byte_limit": 12000000,
+  "status": 200,
+  "final_url": "https://api.worldbank.org/v2/sources/2/series/SP.POP.TOTL/metadata?format=json",
+  "headers": {
+    "Date": "Tue, 15 Sep 2026 13:14:44 GMT",
+    "Content-Type": "application/json;charset=utf-8",
+    "Last-Modified": "Tue, 15 Sep 2026 13:14:43 GMT"
+  },
+  "bytes": 6149,
+  "sha256": "b4714840da2190cbfde93647e3d8ed20463fe8254af42903ae9512b08add10ff",
+  "file": "worldbank-series-metadata.json",
+  "finished_at": "2026-09-15T13:14:42.901347+00:00"
+}

@@ -1,0 +1,1847 @@
+{
+  "generated_from": "report.json",
+  "scope": "bounded illustrative examples, not all hint matches",
+  "candidate_count": 92,
+  "candidates": [
+    {
+      "id": "review:australia:geographic_coordinates:australia:000532ac-3fd1-488b-bead-c7bcbb4e4d7c",
+      "candidate_kind": "geographic_coordinates",
+      "source": "australia",
+      "dataset_id": "australia:000532ac-3fd1-488b-bead-c7bcbb4e4d7c",
+      "title": "eReefs BioGeoChemical model regridded temporal aggregation data service - daily, monthly, annual (AIMS, source: CSIRO)",
+      "url": "https://data.gov.au/data/dataset/ereefs-biogeochemical-model-regridded-temporal-aggregation-data-service-daily-monthly-annual-ai",
+      "observed_text": "latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:australia:geographic_coordinates:australia:001189e8-bde0-4219-906a-4a0fc01cff46",
+      "candidate_kind": "geographic_coordinates",
+      "source": "australia",
+      "dataset_id": "australia:001189e8-bde0-4219-906a-4a0fc01cff46",
+      "title": "Katoomba 1:100 000 topographic map",
+      "url": "https://data.gov.au/data/dataset/katoomba-1-100-000-topographic-map",
+      "observed_text": "longitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:australia:statistical_unit:australia:0660dad5-0a2f-4fb7-ad54-926ff369458b",
+      "candidate_kind": "statistical_unit",
+      "source": "australia",
+      "dataset_id": "australia:0660dad5-0a2f-4fb7-ad54-926ff369458b",
+      "title": "RSV Nuyina Trial Voyage 1A, 2023-24 Voyage Data, Tasmanian waters",
+      "url": "https://data.gov.au/data/dataset/rsv-nuyina-trial-voyage-1a-2023-24-voyage-data-tasmanian-waters1",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:australia:statistical_unit:australia:0736939b-65d5-465c-9b65-3320187583c5",
+      "candidate_kind": "statistical_unit",
+      "source": "australia",
+      "dataset_id": "australia:0736939b-65d5-465c-9b65-3320187583c5",
+      "title": "RSV Nuyina Voyage 5 2021-22 Voyage Data, Southern Ocean, Antarctica",
+      "url": "https://data.gov.au/data/dataset/rsv-nuyina-voyage-5-2021-22-voyage-data-southern-ocean-antarctica1",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:austria:geographic_coordinates:austria:428759c0-ad6f-47e2-83c5-e6222a3aa55c",
+      "candidate_kind": "geographic_coordinates",
+      "source": "austria",
+      "dataset_id": "austria:428759c0-ad6f-47e2-83c5-e6222a3aa55c",
+      "title": "Flächenwidmung Vektor (MVT) Kärnten",
+      "url": "https://www.data.gv.at/datasets/428759c0-ad6f-47e2-83c5-e6222a3aa55c",
+      "observed_text": "EPSG:3857",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:austria:geographic_coordinates:austria:b5de6975-417b-4320-afdb-eb2a9e2a1dbf",
+      "candidate_kind": "geographic_coordinates",
+      "source": "austria",
+      "dataset_id": "austria:b5de6975-417b-4320-afdb-eb2a9e2a1dbf",
+      "title": "Digitales Geländemodell (DGM) Österreich",
+      "url": "https://www.data.gv.at/datasets/b5de6975-417b-4320-afdb-eb2a9e2a1dbf",
+      "observed_text": "EPSG:31287",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:busan:geographic_coordinates:busan:15083386",
+      "candidate_kind": "geographic_coordinates",
+      "source": "busan",
+      "dataset_id": "busan:15083386",
+      "title": "부산광역시_종합병원 현황",
+      "url": "https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=15083386",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:busan:geographic_coordinates:busan:15082060",
+      "candidate_kind": "geographic_coordinates",
+      "source": "busan",
+      "dataset_id": "busan:15082060",
+      "title": "부산광역시_방범용 CCTV 정보",
+      "url": "https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=15082060",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:busan:administrative_area_code:busan:15103328",
+      "candidate_kind": "administrative_area_code",
+      "source": "busan",
+      "dataset_id": "busan:15103328",
+      "title": "부산광역시_시간대_행정동별 인구이동건수",
+      "url": "https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=15103328",
+      "observed_text": "행정동코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:busan:administrative_area_code:busan:15044141",
+      "candidate_kind": "administrative_area_code",
+      "source": "busan",
+      "dataset_id": "busan:15044141",
+      "title": "부산광역시 기장군_법정동코드",
+      "url": "https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=15044141",
+      "observed_text": "법정동코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:busan:statistical_unit:busan:3079289",
+      "candidate_kind": "statistical_unit",
+      "source": "busan",
+      "dataset_id": "busan:3079289",
+      "title": "부산광역시_사하구_주요생필품 가격정보",
+      "url": "https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=3079289",
+      "observed_text": "측정 단위",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:busan:statistical_unit:busan:15134091",
+      "candidate_kind": "statistical_unit",
+      "source": "busan",
+      "dataset_id": "busan:15134091",
+      "title": "부산환경공단_수질 측정항목 정보",
+      "url": "https://data.busan.go.kr/bdip/opendata/detail.do?publicdatapk=15134091",
+      "observed_text": "측정단위",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:canada:geographic_coordinates:canada:0173af88-dc57-4328-9cd6-c7ee97bda045",
+      "candidate_kind": "geographic_coordinates",
+      "source": "canada",
+      "dataset_id": "canada:0173af88-dc57-4328-9cd6-c7ee97bda045",
+      "title": "Invertebrate assemblages and submerged aquatic vegetation in coastal areas of the St. Lawrence Estuary and Gulf (north shore) using a drop photo camera system.",
+      "url": "https://open.canada.ca/data/en/dataset/0173af88-dc57-4328-9cd6-c7ee97bda045",
+      "observed_text": "latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:canada:geographic_coordinates:canada:01867404-ba2a-470e-94b7-0604607cfa30",
+      "candidate_kind": "geographic_coordinates",
+      "source": "canada",
+      "dataset_id": "canada:01867404-ba2a-470e-94b7-0604607cfa30",
+      "title": "Air Quality and Climate Monitoring: Unverified Hourly Air Quality and Meteorological Data",
+      "url": "https://open.canada.ca/data/en/dataset/01867404-ba2a-470e-94b7-0604607cfa30",
+      "observed_text": "Latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:canada:statistical_unit:canada:017b37ef-05c4-4a07-bb9b-ac77f8543a38",
+      "candidate_kind": "statistical_unit",
+      "source": "canada",
+      "dataset_id": "canada:017b37ef-05c4-4a07-bb9b-ac77f8543a38",
+      "title": "Water discharge in manufacturing industries, by point of discharge and by industry",
+      "url": "https://open.canada.ca/data/en/dataset/017b37ef-05c4-4a07-bb9b-ac77f8543a38",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:canada:statistical_unit:canada:02396a38-08cb-4a55-9c66-235f6237eed1",
+      "candidate_kind": "statistical_unit",
+      "source": "canada",
+      "dataset_id": "canada:02396a38-08cb-4a55-9c66-235f6237eed1",
+      "title": "Historical statistics, population, by birthplace and sex",
+      "url": "https://open.canada.ca/data/en/dataset/02396a38-08cb-4a55-9c66-235f6237eed1",
+      "observed_text": "Unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:census:administrative_area_code:census:series-acs/acs1/pumspr",
+      "candidate_kind": "administrative_area_code",
+      "source": "census",
+      "dataset_id": "census:series-acs/acs1/pumspr",
+      "title": "American Community Survey: 1-Year Estimates - Public Use Microdata Sample Puerto Rico",
+      "url": "http://api.census.gov/data/2024/acs/acs1/pumspr/examples.json",
+      "observed_text": "FIPS code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:census:administrative_area_code:census:series-acs/acs5/pumspr",
+      "candidate_kind": "administrative_area_code",
+      "source": "census",
+      "dataset_id": "census:series-acs/acs5/pumspr",
+      "title": "American Community Survey: 5-Year Estimates - Public Use Microdata Sample Puerto Rico",
+      "url": "http://api.census.gov/data/2024/acs/acs5/pumspr/examples.json",
+      "observed_text": "FIPS code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:census:geographic_coordinates:census:series-geoinfo",
+      "candidate_kind": "geographic_coordinates",
+      "source": "census",
+      "dataset_id": "census:series-geoinfo",
+      "title": "Geography Information",
+      "url": "http://api.census.gov/data/2025/geoinfo/examples.json",
+      "observed_text": "longitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:culture:geographic_coordinates:culture:api:665",
+      "candidate_kind": "geographic_coordinates",
+      "source": "culture",
+      "dataset_id": "culture:api:665",
+      "title": "한국문화정보원_국립공원 주변 문화시설 POI 정보",
+      "url": "https://www.culture.go.kr/data/openapi/openapiView.do?id=665&gubun=A",
+      "observed_text": "경도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:culture:geographic_coordinates:culture:api:602",
+      "candidate_kind": "geographic_coordinates",
+      "source": "culture",
+      "dataset_id": "culture:api:602",
+      "title": "한국문화정보원_전국 박물관 미술관_공연행사",
+      "url": "https://www.culture.go.kr/data/openapi/openapiView.do?id=602&gubun=A",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:eu:geographic_coordinates:eu:oai:zenodo.org:10778015",
+      "candidate_kind": "geographic_coordinates",
+      "source": "eu",
+      "dataset_id": "eu:oai:zenodo.org:10778015",
+      "title": "Landsat-based soil spectral indices for pan-EU 2000-2022: Annual Landsat P25 (2022)",
+      "url": "https://data.europa.eu/data/datasets/oai%3Azenodo.org%3A10778015",
+      "observed_text": "Coordinate reference",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:eu:geographic_coordinates:eu:oai:zenodo.org:18702593",
+      "candidate_kind": "geographic_coordinates",
+      "source": "eu",
+      "dataset_id": "eu:oai:zenodo.org:18702593",
+      "title": "Multiscale Land Surface Parameters of GEDTM30: Profile Curvature",
+      "url": "https://data.europa.eu/data/datasets/oai%3Azenodo.org%3A18702593",
+      "observed_text": "Coordinate reference",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:eu:statistical_unit:eu:oai-zenodo-org-16964978",
+      "candidate_kind": "statistical_unit",
+      "source": "eu",
+      "dataset_id": "eu:oai-zenodo-org-16964978",
+      "title": "Data_WP5_5 Cardiorespiratory function measures",
+      "url": "https://data.europa.eu/data/datasets/oai-zenodo-org-16964978",
+      "observed_text": "measurement unit",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:eu:statistical_unit:eu:oai-zenodo-org-7152055",
+      "candidate_kind": "statistical_unit",
+      "source": "eu",
+      "dataset_id": "eu:oai-zenodo-org-7152055",
+      "title": "Apulian Aqueduct demo site: daily time series of reservoirs inflows 2010-2019",
+      "url": "https://data.europa.eu/data/datasets/oai-zenodo-org-7152055",
+      "observed_text": "Unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:eu:administrative_area_code:eu:oai-zenodo-org-16894219",
+      "candidate_kind": "administrative_area_code",
+      "source": "eu",
+      "dataset_id": "eu:oai-zenodo-org-16894219",
+      "title": "EU Regional Policy Payments 2007-2013",
+      "url": "https://data.europa.eu/data/datasets/oai-zenodo-org-16894219",
+      "observed_text": "NUTS Code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:eu:administrative_area_code:eu:oai-zenodo-org-16894299",
+      "candidate_kind": "administrative_area_code",
+      "source": "eu",
+      "dataset_id": "eu:oai-zenodo-org-16894299",
+      "title": "EU Regional Policy Payments 2014-2020",
+      "url": "https://data.europa.eu/data/datasets/oai-zenodo-org-16894299",
+      "observed_text": "NUTS Code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:france:geographic_coordinates:france:6aa0a1d447b80db48cb349a5",
+      "candidate_kind": "geographic_coordinates",
+      "source": "france",
+      "dataset_id": "france:6aa0a1d447b80db48cb349a5",
+      "title": "Plan de Corps de Rue Simplifié (PCRS) sur le territoire de m2A",
+      "url": "https://www.data.gouv.fr/datasets/plan-de-corps-de-rue-simplifie-pcrs-sur-le-territoire-de-m2a",
+      "observed_text": "EPSG : 3948",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:france:geographic_coordinates:france:6a97680d18e53dad96b3496c",
+      "candidate_kind": "geographic_coordinates",
+      "source": "france",
+      "dataset_id": "france:6a97680d18e53dad96b3496c",
+      "title": "3- Suivi télémétrique du Puffin des Baléares (CNRS-OFB, années 2022 à 2025) : points de localisation des individus (point)",
+      "url": "https://www.data.gouv.fr/datasets/3-suivi-telemetrique-du-puffin-des-baleares-cnrs-ofb-annees-2022-a-2025-points-de-localisation-des-individus-point",
+      "observed_text": "longitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:france:administrative_area_code:france:670b0dc8c38cf5576f3ecd9c",
+      "candidate_kind": "administrative_area_code",
+      "source": "france",
+      "dataset_id": "france:670b0dc8c38cf5576f3ecd9c",
+      "title": "Occupation du Sol - Grand Est - Statistiques communales",
+      "url": "https://www.data.gouv.fr/datasets/fr-200052264-a0222-0000-8",
+      "observed_text": "administrative CODE",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:france:statistical_unit:france:689b59c1a0b6bb48e3d771ce",
+      "candidate_kind": "statistical_unit",
+      "source": "france",
+      "dataset_id": "france:689b59c1a0b6bb48e3d771ce",
+      "title": "VisioMel database: predicting cutaneous melanoma relapse",
+      "url": "https://www.data.gouv.fr/datasets/visiomel-database-predicting-cutaneous-melanoma-relapse",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:germany:geographic_coordinates:germany:00458170-fcc2-4e98-8dc9-d61ea3f7cb93",
+      "candidate_kind": "geographic_coordinates",
+      "source": "germany",
+      "dataset_id": "germany:00458170-fcc2-4e98-8dc9-d61ea3f7cb93",
+      "title": "TopPlusOpen Präsentationsgraphik 1:50 000",
+      "url": "https://www.govdata.de/suche/daten/topplusopen-prasentationsgraphik-1-50-000",
+      "observed_text": "EPSG:25832",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:germany:geographic_coordinates:germany:00feb587-c6f2-4342-91b6-6da64eb9d59c",
+      "candidate_kind": "geographic_coordinates",
+      "source": "germany",
+      "dataset_id": "germany:00feb587-c6f2-4342-91b6-6da64eb9d59c",
+      "title": "Adressen Kreis Wesel",
+      "url": "https://www.govdata.de/suche/daten/adressen-kreis-wesel",
+      "observed_text": "EPSG25832",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:germany:statistical_unit:germany:da5a98c7-09f1-4df2-8b4a-77df09b1821b",
+      "candidate_kind": "statistical_unit",
+      "source": "germany",
+      "dataset_id": "germany:da5a98c7-09f1-4df2-8b4a-77df09b1821b",
+      "title": "GNSS and IMU Raw Measurements for Aviation",
+      "url": "https://www.govdata.de/suche/daten/gnss-and-imu-raw-measurements-for-aviation",
+      "observed_text": "Measurement Unit",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:gyeonggi:administrative_area_code:gyeonggi:HRBFK61UKS5LMOEV841G38318117",
+      "candidate_kind": "administrative_area_code",
+      "source": "gyeonggi",
+      "dataset_id": "gyeonggi:HRBFK61UKS5LMOEV841G38318117",
+      "title": "경기도_시군구별_읍면동_위치정보",
+      "url": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=HRBFK61UKS5LMOEV841G38318117&infSeq=1",
+      "observed_text": "시군구 코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:gyeonggi:administrative_area_code:gyeonggi:ECSP3DEPZLV8SPH9KR9F38156928",
+      "candidate_kind": "administrative_area_code",
+      "source": "gyeonggi",
+      "dataset_id": "gyeonggi:ECSP3DEPZLV8SPH9KR9F38156928",
+      "title": "경기도_행정동_리스트",
+      "url": "https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=ECSP3DEPZLV8SPH9KR9F38156928&infSeq=1",
+      "observed_text": "행정동코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:hongkong:geographic_coordinates:hongkong:dec8a753-d62e-4224-92b5-cd2e8a5183ad",
+      "candidate_kind": "geographic_coordinates",
+      "source": "hongkong",
+      "dataset_id": "hongkong:dec8a753-d62e-4224-92b5-cd2e8a5183ad",
+      "title": "Address and Working Hours of Offices",
+      "url": "https://data.gov.hk/en-data/dataset/hk-immd-set2-address-and-working-hours-of-offices",
+      "observed_text": "latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:hongkong:geographic_coordinates:hongkong:fa52841a-3513-4d9e-b186-31139ee03443",
+      "candidate_kind": "geographic_coordinates",
+      "source": "hongkong",
+      "dataset_id": "hongkong:fa52841a-3513-4d9e-b186-31139ee03443",
+      "title": "Information on IPD’s Public Service Counter",
+      "url": "https://data.gov.hk/en-data/dataset/hk-ipd-ipstat-ipd-public-service-counter",
+      "observed_text": "latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:incheon:geographic_coordinates:incheon:15061032",
+      "candidate_kind": "geographic_coordinates",
+      "source": "incheon",
+      "dataset_id": "incheon:15061032",
+      "title": "인천광역시 미추홀구_산후조리원 현황",
+      "url": "https://data.incheon.go.kr/findData/publicDataDetail?dataId=15061032",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:incheon:geographic_coordinates:incheon:15134402",
+      "candidate_kind": "geographic_coordinates",
+      "source": "incheon",
+      "dataset_id": "incheon:15134402",
+      "title": "인천광역시_도시경관아카이브_기록물사진분류코드목록",
+      "url": "https://data.incheon.go.kr/findData/publicDataDetail?dataId=15134402",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:incheon:administrative_area_code:incheon:15134629",
+      "candidate_kind": "administrative_area_code",
+      "source": "incheon",
+      "dataset_id": "incheon:15134629",
+      "title": "인천광역시_여객선운임지원_시주소기초정보",
+      "url": "https://data.incheon.go.kr/findData/publicDataDetail?dataId=15134629",
+      "observed_text": "시군구코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:incheon:administrative_area_code:incheon:15086954",
+      "candidate_kind": "administrative_area_code",
+      "source": "incheon",
+      "dataset_id": "incheon:15086954",
+      "title": "인천광역시 남동구_옥외광고물 기관코드",
+      "url": "https://data.incheon.go.kr/findData/publicDataDetail?dataId=15086954",
+      "observed_text": "행정동코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:ireland:geographic_coordinates:ireland:00483318-f3ff-4c9e-ba61-c1328eedd0d5",
+      "candidate_kind": "geographic_coordinates",
+      "source": "ireland",
+      "dataset_id": "ireland:00483318-f3ff-4c9e-ba61-c1328eedd0d5",
+      "title": "COVID-19 HSE Daily Booster Vaccination Figures",
+      "url": "https://data.gov.ie/dataset/covid-19-hse-daily-booster-vaccination-figures",
+      "observed_text": "Latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:ireland:geographic_coordinates:ireland:00af2d97-4a77-4bcd-855e-5a1cb25eb652",
+      "candidate_kind": "geographic_coordinates",
+      "source": "ireland",
+      "dataset_id": "ireland:00af2d97-4a77-4bcd-855e-5a1cb25eb652",
+      "title": "Local Electoral Areas - National Statutory Boundaries - 2019",
+      "url": "https://data.gov.ie/dataset/local-electoral-areas-national-statutory-boundaries-2019",
+      "observed_text": "Coordinate Reference",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:ireland:statistical_unit:ireland:2f274bf1-5b34-462f-be0b-66dc1bf0e735",
+      "candidate_kind": "statistical_unit",
+      "source": "ireland",
+      "dataset_id": "ireland:2f274bf1-5b34-462f-be0b-66dc1bf0e735",
+      "title": "BME - Humidity in Gorey, Co. Wexford",
+      "url": "https://data.gov.ie/dataset/bme-humidity-gorey",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:ireland:statistical_unit:ireland:41e21e43-58d3-475f-bf72-d48335ab1a1b",
+      "candidate_kind": "statistical_unit",
+      "source": "ireland",
+      "dataset_id": "ireland:41e21e43-58d3-475f-bf72-d48335ab1a1b",
+      "title": "Sulfur Dioxide - SO2 Level in Gorey, Co. Wexford",
+      "url": "https://data.gov.ie/dataset/sulfur-dioxide-so2-level-in-gorey-co-wexford",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:jeju:geographic_coordinates:jeju:1349",
+      "candidate_kind": "geographic_coordinates",
+      "source": "jeju",
+      "dataset_id": "jeju:1349",
+      "title": "제주관광공사 제주관광정보시스템(VISIT JEJU) 여행장소",
+      "url": "https://jejudatahub.net/data/view/data/1349",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:jeju:geographic_coordinates:jeju:1099",
+      "candidate_kind": "geographic_coordinates",
+      "source": "jeju",
+      "dataset_id": "jeju:1099",
+      "title": "향기마을용흥리_무장애여행위치정보",
+      "url": "https://jejudatahub.net/data/view/data/1099",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:kma:geographic_coordinates:kma:0eacb539e235ec7e6a26bf31d29439d08c5e62cc39d0d6ff4902a3c4780d01c3",
+      "candidate_kind": "geographic_coordinates",
+      "source": "kma",
+      "dataset_id": "kma:0eacb539e235ec7e6a26bf31d29439d08c5e62cc39d0d6ff4902a3c4780d01c3",
+      "title": "해양기상부이",
+      "url": "https://data.kma.go.kr/data/sea/selectBuoyRltmList.do?pgmNo=52",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:kma:geographic_coordinates:kma:8f8ec0a49fe86f0f02d0e37696aabf818a90bb7d83cbb96912c30356e1b41b99",
+      "candidate_kind": "geographic_coordinates",
+      "source": "kma",
+      "dataset_id": "kma:8f8ec0a49fe86f0f02d0e37696aabf818a90bb7d83cbb96912c30356e1b41b99",
+      "title": "연구용집중관측",
+      "url": "https://data.kma.go.kr/data/focusobs/focusobsList.do?gubun=KEOP&pgmNo=750",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:korea:geographic_coordinates:korea:15012005",
+      "candidate_kind": "geographic_coordinates",
+      "source": "korea",
+      "dataset_id": "korea:15012005",
+      "title": "소상공인시장진흥공단_상가(상권)정보_API",
+      "url": "https://www.data.go.kr/data/15012005/openapi.do",
+      "observed_text": "경도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:korea:geographic_coordinates:korea:15100298",
+      "candidate_kind": "geographic_coordinates",
+      "source": "korea",
+      "dataset_id": "korea:15100298",
+      "title": "한국문화정보원_전국 중고서점 및 운영정보",
+      "url": "https://www.data.go.kr/data/15100298/openapi.do",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:korea:administrative_area_code:korea:15126468",
+      "candidate_kind": "administrative_area_code",
+      "source": "korea",
+      "dataset_id": "korea:15126468",
+      "title": "국토교통부_아파트 매매 실거래가 상세 자료",
+      "url": "https://www.data.go.kr/data/15126468/openapi.do",
+      "observed_text": "행정표준코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:korea:administrative_area_code:korea:15116554",
+      "candidate_kind": "administrative_area_code",
+      "source": "korea",
+      "dataset_id": "korea:15116554",
+      "title": "한국산업안전보건공단_택시기사 교육영상추천 조회서비스",
+      "url": "https://www.data.go.kr/data/15116554/openapi.do",
+      "observed_text": "법정동 코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:korea:statistical_unit:korea:15118404",
+      "candidate_kind": "statistical_unit",
+      "source": "korea",
+      "dataset_id": "korea:15118404",
+      "title": "인천국제공항공사_여객터미널 소음정보 조회 서비스",
+      "url": "https://www.data.go.kr/data/15118404/openapi.do",
+      "observed_text": "측정 단위",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:korea:statistical_unit:korea:15127885",
+      "candidate_kind": "statistical_unit",
+      "source": "korea",
+      "dataset_id": "korea:15127885",
+      "title": "국가데이터처_KOSIS 지표고유번호별 설명자료 조회 서비스",
+      "url": "https://www.data.go.kr/data/15127885/openapi.do",
+      "observed_text": "측정 단위",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:netherlands:geographic_coordinates:netherlands:3c06ba22-76fb-4735-a4ee-073ed3d13c98",
+      "candidate_kind": "geographic_coordinates",
+      "source": "netherlands",
+      "dataset_id": "netherlands:3c06ba22-76fb-4735-a4ee-073ed3d13c98",
+      "title": "Afvalbakken",
+      "url": "https://data.overheid.nl/dataset/utrecht-afvalbakken",
+      "observed_text": "latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:netherlands:geographic_coordinates:netherlands:41027f61-e3be-4b5d-9f21-05927011cb74",
+      "candidate_kind": "geographic_coordinates",
+      "source": "netherlands",
+      "dataset_id": "netherlands:41027f61-e3be-4b5d-9f21-05927011cb74",
+      "title": "BRT Achtergrondkaart",
+      "url": "https://data.overheid.nl/dataset/48457-brt-achtergrondkaart",
+      "observed_text": "EPSG 28992",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:oecd:statistical_unit:oecd:OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_ALL",
+      "candidate_kind": "statistical_unit",
+      "source": "oecd",
+      "dataset_id": "oecd:OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_ALL",
+      "title": "Education and earnings (EARNINGS) (full dataset)",
+      "url": "https://data-explorer.oecd.org/vis?df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bag%5D=OECD.EDU.IMEP&df%5Bid%5D=DSD_EAG_LSO_EA%40DF_LSO_EARN_ALL&df%5Bvs%5D=1.0",
+      "observed_text": "Unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:oecd:statistical_unit:oecd:OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_ALL",
+      "candidate_kind": "statistical_unit",
+      "source": "oecd",
+      "dataset_id": "oecd:OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_ALL",
+      "title": "National Educational Attainment Classification (NEAC) and labour market status (full dataset)",
+      "url": "https://data-explorer.oecd.org/vis?df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bag%5D=OECD.EDU.IMEP&df%5Bid%5D=DSD_EAG_LSO_EA%40DF_LSO_NEAC_ALL&df%5Bvs%5D=1.0",
+      "observed_text": "Unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:portugal:geographic_coordinates:portugal:6a87e269d899fe5e4b979dfb",
+      "candidate_kind": "geographic_coordinates",
+      "source": "portugal",
+      "dataset_id": "portugal:6a87e269d899fe5e4b979dfb",
+      "title": "Cobertura Aérea LiDAR da ilha de São Jorge com 15pt/m2 - Região Autónoma dos Açores (RAA)",
+      "url": "https://dados.gov.pt/datasets/cobertura-aerea-lidar-da-ilha-de-sao-jorge-com-15pt-m2-regiao-autonoma-dos-acores-raa",
+      "observed_text": "EPSG:5015",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:portugal:geographic_coordinates:portugal:6a698fe8b345214dd62fcd7c",
+      "candidate_kind": "geographic_coordinates",
+      "source": "portugal",
+      "dataset_id": "portugal:6a698fe8b345214dd62fcd7c",
+      "title": "Cobertura Aérea LiDAR da ilha Graciosa com 15pt/m2 - Região Autónoma dos Açores (RAA)",
+      "url": "https://dados.gov.pt/datasets/cobertura-aerea-lidar-da-ilha-graciosa-com-15pt-m2-regiao-autonoma-dos-acores-raa",
+      "observed_text": "EPSG:6183",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:seoul:administrative_area_code:seoul:OA-15560",
+      "candidate_kind": "administrative_area_code",
+      "source": "seoul",
+      "dataset_id": "seoul:OA-15560",
+      "title": "서울시 상권분석서비스(영역-상권)",
+      "url": "https://data.seoul.go.kr/dataList/OA-15560/S/1/datasetView.do",
+      "observed_text": "행정동 코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:seoul:administrative_area_code:seoul:OA-10004",
+      "candidate_kind": "administrative_area_code",
+      "source": "seoul",
+      "dataset_id": "seoul:OA-10004",
+      "title": "서울시 강서구 모범음식점 취소 현황",
+      "url": "https://data.seoul.go.kr/dataList/OA-10004/S/1/datasetView.do",
+      "observed_text": "시군구코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:seoul:geographic_coordinates:seoul:OA-15560",
+      "candidate_kind": "geographic_coordinates",
+      "source": "seoul",
+      "dataset_id": "seoul:OA-15560",
+      "title": "서울시 상권분석서비스(영역-상권)",
+      "url": "https://data.seoul.go.kr/dataList/OA-15560/S/1/datasetView.do",
+      "observed_text": "좌표계",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:seoul:geographic_coordinates:seoul:OA-10492",
+      "candidate_kind": "geographic_coordinates",
+      "source": "seoul",
+      "dataset_id": "seoul:OA-10492",
+      "title": "서울시 은평구 위생처리업 공중위생업소 현황",
+      "url": "https://data.seoul.go.kr/dataList/OA-10492/S/1/datasetView.do",
+      "observed_text": "EPSG:5174",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:singapore:statistical_unit:singapore:d_53ffdaa97e48ce934cf92799d381f3b1",
+      "candidate_kind": "statistical_unit",
+      "source": "singapore",
+      "dataset_id": "singapore:d_53ffdaa97e48ce934cf92799d381f3b1",
+      "title": "Rainfall - Monthly Highest Daily Total",
+      "url": "https://data.gov.sg/datasets/d_53ffdaa97e48ce934cf92799d381f3b1/view",
+      "observed_text": "Unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:singapore:statistical_unit:singapore:d_c92edf841336f03ab51c6693ac8d33ad",
+      "candidate_kind": "statistical_unit",
+      "source": "singapore",
+      "dataset_id": "singapore:d_c92edf841336f03ab51c6693ac8d33ad",
+      "title": "Surface Air Temperature - Monthly Mean Daily Minimum",
+      "url": "https://data.gov.sg/datasets/d_c92edf841336f03ab51c6693ac8d33ad/view",
+      "observed_text": "Unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:singapore:geographic_coordinates:singapore:d_39620e0a12a31733842dcb6759b51a85",
+      "candidate_kind": "geographic_coordinates",
+      "source": "singapore",
+      "dataset_id": "singapore:d_39620e0a12a31733842dcb6759b51a85",
+      "title": "Theatre",
+      "url": "https://data.gov.sg/datasets/d_39620e0a12a31733842dcb6759b51a85/view",
+      "observed_text": "latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:spain:geographic_coordinates:spain:https://datos.gob.es/catalogo/a09002970-mapa-de-cultivos-de-cataluna-con-origen-dun-20151",
+      "candidate_kind": "geographic_coordinates",
+      "source": "spain",
+      "dataset_id": "spain:https://datos.gob.es/catalogo/a09002970-mapa-de-cultivos-de-cataluna-con-origen-dun-20151",
+      "title": "Map of crops of Catalonia with DUN origin 2015",
+      "url": "https://datos.gob.es/catalogo/a09002970-mapa-de-cultivos-de-cataluna-con-origen-dun-20151",
+      "observed_text": "EPSG: 25831",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:spain:geographic_coordinates:spain:https://datos.gob.es/catalogo/a09002970-directorio-de-centros-docentes-tracacovid",
+      "candidate_kind": "geographic_coordinates",
+      "source": "spain",
+      "dataset_id": "spain:https://datos.gob.es/catalogo/a09002970-directorio-de-centros-docentes-tracacovid",
+      "title": "Directory of educational centers TRAÇACOVID",
+      "url": "https://datos.gob.es/catalogo/a09002970-directorio-de-centros-docentes-tracacovid",
+      "observed_text": "EPSG 25831",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:spain:statistical_unit:spain:https://datos.gob.es/catalogo/ea0041268-datos-de-seleccion-para-el-rendimiento-funcional-en-la-evolucion-de-los-mecanismos-de-endurecimiento-cuticle-en-insectos-traduccion-automatica",
+      "candidate_kind": "statistical_unit",
+      "source": "spain",
+      "dataset_id": "spain:https://datos.gob.es/catalogo/ea0041268-datos-de-seleccion-para-el-rendimiento-funcional-en-la-evolucion-de-los-mecanismos-de-endurecimiento-cuticle-en-insectos-traduccion-automatica",
+      "title": "Data from: Selection for functional performance in the evolution of cuticle hardening mechanisms in insects",
+      "url": "https://datos.gob.es/catalogo/ea0041268-datos-de-seleccion-para-el-rendimiento-funcional-en-la-evolucion-de-los-mecanismos-de-endurecimiento-cuticle-en-insectos-traduccion-automatica",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:spain:statistical_unit:spain:https://datos.gob.es/catalogo/ea0041268-material-complementario-efectos-de-labranza-de-conservacion-trafico-controlado-y-riego-por-deficit-regulado-en-las-emisiones-de-co2-del-suelo-en-un-sistema-basado-en-el-maiz-en-condiciones-mediterraneas-traduccion-automatica",
+      "candidate_kind": "statistical_unit",
+      "source": "spain",
+      "dataset_id": "spain:https://datos.gob.es/catalogo/ea0041268-material-complementario-efectos-de-labranza-de-conservacion-trafico-controlado-y-riego-por-deficit-regulado-en-las-emisiones-de-co2-del-suelo-en-un-sistema-basado-en-el-maiz-en-condiciones-mediterraneas-traduccion-automatica",
+      "title": "Supplementary Material. Effects of conservation tillage, controlled traffic and regulated deficit irrigation on soil CO2 emissions in a maize-based system in Mediterranean conditions",
+      "url": "https://datos.gob.es/catalogo/ea0041268-material-complementario-efectos-de-labranza-de-conservacion-trafico-controlado-y-riego-por-deficit-regulado-en-las-emisiones-de-co2-del-suelo-en-un-sistema-basado-en-el-maiz-en-condiciones-mediterraneas-traduccion-automatica",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:switzerland:geographic_coordinates:switzerland:006a4c33-d0b4-4e43-ae25-b8af748ae138",
+      "candidate_kind": "geographic_coordinates",
+      "source": "switzerland",
+      "dataset_id": "switzerland:006a4c33-d0b4-4e43-ae25-b8af748ae138",
+      "title": "Kommunaler Richtplan Stadt Zug",
+      "url": "https://opendata.swiss/en/dataset/potenzieller-schulweg-stadt-zug",
+      "observed_text": "EPSG:2056",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:switzerland:geographic_coordinates:switzerland:0181577b-6476-448b-af60-0ecd9f554a46",
+      "candidate_kind": "geographic_coordinates",
+      "source": "switzerland",
+      "dataset_id": "switzerland:0181577b-6476-448b-af60-0ecd9f554a46",
+      "title": "Data and code for Community structure and range shifts in Arctic marine fish under climate change",
+      "url": "https://opendata.swiss/en/dataset/data-and-code-for-community-structure-and-range-shifts-in-arctic-marine-fish-under-climate-chan",
+      "observed_text": "latitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:taiwan:geographic_coordinates:taiwan:17214",
+      "candidate_kind": "geographic_coordinates",
+      "source": "taiwan",
+      "dataset_id": "taiwan:17214",
+      "title": "臺灣通用電子地圖(套疊等高線，比例尺小於一萬八千分之一)",
+      "url": "https://data.gov.tw/dataset/17214",
+      "observed_text": "EPSG:3857",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:taiwan:geographic_coordinates:taiwan:176214",
+      "candidate_kind": "geographic_coordinates",
+      "source": "taiwan",
+      "dataset_id": "taiwan:176214",
+      "title": "村里界圖(TWD97經緯度)(WMS)",
+      "url": "https://data.gov.tw/dataset/176214",
+      "observed_text": "EPSG:4326",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:uk:geographic_coordinates:uk:00009891-f282-4403-8f16-4fa3047a430d",
+      "candidate_kind": "geographic_coordinates",
+      "source": "uk",
+      "dataset_id": "uk:00009891-f282-4403-8f16-4fa3047a430d",
+      "title": "Leeds crime statistics",
+      "url": "https://www.data.gov.uk/dataset/00009891-f282-4403-8f16-4fa3047a430d",
+      "observed_text": "longitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:uk:geographic_coordinates:uk:00b3e217-914f-4273-a02a-d62c892ce8c8",
+      "candidate_kind": "geographic_coordinates",
+      "source": "uk",
+      "dataset_id": "uk:00b3e217-914f-4273-a02a-d62c892ce8c8",
+      "title": "Leeds allotments",
+      "url": "https://www.data.gov.uk/dataset/00b3e217-914f-4273-a02a-d62c892ce8c8",
+      "observed_text": "longitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:uk:statistical_unit:uk:0645d9b4-3b0f-4c23-9eb1-fa06e4ca4527",
+      "candidate_kind": "statistical_unit",
+      "source": "uk",
+      "dataset_id": "uk:0645d9b4-3b0f-4c23-9eb1-fa06e4ca4527",
+      "title": "Department for Environment, Food and Rural Affairs (DEFRA) MCZ: Runswick Bay: Multibeam Survey rnsb_7_2013: Northern North Sea (09/02/2013 to 19/02/2013)",
+      "url": "https://www.data.gov.uk/dataset/0645d9b4-3b0f-4c23-9eb1-fa06e4ca4527",
+      "observed_text": "Measurement Unit",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:uk:statistical_unit:uk:17047035-16c6-47b0-ade1-fbb5b9500210",
+      "candidate_kind": "statistical_unit",
+      "source": "uk",
+      "dataset_id": "uk:17047035-16c6-47b0-ade1-fbb5b9500210",
+      "title": "National Laboratory Service Product Data",
+      "url": "https://www.data.gov.uk/dataset/17047035-16c6-47b0-ade1-fbb5b9500210",
+      "observed_text": "measurement unit",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:uk:administrative_area_code:uk:0954c5c8-a15f-4805-a31d-742928fdc847",
+      "candidate_kind": "administrative_area_code",
+      "source": "uk",
+      "dataset_id": "uk:0954c5c8-a15f-4805-a31d-742928fdc847",
+      "title": "International Territorial Levels Level 3 (January 2025) Names and Codes in the UK",
+      "url": "https://www.data.gov.uk/dataset/0954c5c8-a15f-4805-a31d-742928fdc847",
+      "observed_text": "NUTS code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:uk:administrative_area_code:uk:1cbb67bc-b0a5-4aa0-940b-1e5568c6e109",
+      "candidate_kind": "administrative_area_code",
+      "source": "uk",
+      "dataset_id": "uk:1cbb67bc-b0a5-4aa0-940b-1e5568c6e109",
+      "title": "International Territorial Levels Level 3 (January 2021) Names and Codes in the UK (V2)",
+      "url": "https://www.data.gov.uk/dataset/1cbb67bc-b0a5-4aa0-940b-1e5568c6e109",
+      "observed_text": "NUTS code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:us:geographic_coordinates:us:5c7b19c6-2578-47eb-aee3-9ee1410c42f8",
+      "candidate_kind": "geographic_coordinates",
+      "source": "us",
+      "dataset_id": "us:5c7b19c6-2578-47eb-aee3-9ee1410c42f8",
+      "title": "Inventory of Owned and Leased Properties (IOLP)",
+      "url": "https://catalog.data.gov/dataset/inventory-of-owned-and-leased-properties-iolp",
+      "observed_text": "Longitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:us:geographic_coordinates:us:0601f811-9880-4925-9a3b-513ce0c0e245",
+      "candidate_kind": "geographic_coordinates",
+      "source": "us",
+      "dataset_id": "us:0601f811-9880-4925-9a3b-513ce0c0e245",
+      "title": "Meteorite Landings",
+      "url": "https://catalog.data.gov/dataset/meteorite-landings",
+      "observed_text": "longitude",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:us:statistical_unit:us:586b80cc-bc5d-4c04-8f47-abd6ab9c03bc",
+      "candidate_kind": "statistical_unit",
+      "source": "us",
+      "dataset_id": "us:586b80cc-bc5d-4c04-8f47-abd6ab9c03bc",
+      "title": "Purchase Order Quantity Price detail for Commodity/Goods procurements",
+      "url": "https://catalog.data.gov/dataset/purchase-order-quantity-price-detail-for-commodity-goods-procurements",
+      "observed_text": "unit of measure",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:us:statistical_unit:us:e363a134-8839-4ea0-baa0-ed885845d0dd",
+      "candidate_kind": "statistical_unit",
+      "source": "us",
+      "dataset_id": "us:e363a134-8839-4ea0-baa0-ed885845d0dd",
+      "title": "U.S. Treasury-Owned Gold",
+      "url": "https://catalog.data.gov/dataset/u-s-treasury-owned-gold",
+      "observed_text": "measurement unit",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "실제 지표 정의·관측 대상 확인",
+        "단위·모집단·집계 주기 확인",
+        "후보 자료와 관측 기간·표본 대조"
+      ]
+    },
+    {
+      "id": "review:us:administrative_area_code:us:d50b3988-e425-4595-b416-e237f58719a9",
+      "candidate_kind": "administrative_area_code",
+      "source": "us",
+      "dataset_id": "us:d50b3988-e425-4595-b416-e237f58719a9",
+      "title": "State, County and City FIPS Reference Table",
+      "url": "https://catalog.data.gov/dataset/state-county-and-city-fips-reference-table",
+      "observed_text": "FIPS code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:us:administrative_area_code:us:0da2bac3-cebf-48e4-b3ab-331e3ccc18db",
+      "candidate_kind": "administrative_area_code",
+      "source": "us",
+      "dataset_id": "us:0da2bac3-cebf-48e4-b3ab-331e3ccc18db",
+      "title": "NYC Cooling Tower Registrations",
+      "url": "https://catalog.data.gov/dataset/nyc-cooling-tower-registrations",
+      "observed_text": "Administrative Code",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    },
+    {
+      "id": "review:vworld:geographic_coordinates:vworld:NA:23",
+      "candidate_kind": "geographic_coordinates",
+      "source": "vworld",
+      "dataset_id": "vworld:NA:23",
+      "title": "연속지적도형정보",
+      "url": "https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?svcCde=NA&dsId=23",
+      "observed_text": "좌표계",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:vworld:geographic_coordinates:vworld:MK:30565",
+      "candidate_kind": "geographic_coordinates",
+      "source": "vworld",
+      "dataset_id": "vworld:MK:30565",
+      "title": "위성기준점정보",
+      "url": "https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?svcCde=MK&dsId=30565",
+      "observed_text": "위도",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "좌표 칼럼·자료형 확인",
+        "좌표계·축 순서·공간 정밀도 확인",
+        "후보 자료와 공간 범위·시점 대조"
+      ]
+    },
+    {
+      "id": "review:vworld:administrative_area_code:vworld:MK:30505",
+      "candidate_kind": "administrative_area_code",
+      "source": "vworld",
+      "dataset_id": "vworld:MK:30505",
+      "title": "법정동코드",
+      "url": "https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?svcCde=MK&dsId=30505",
+      "observed_text": "법정동코드",
+      "evidence_field": "title_or_description",
+      "status": "needs_source_schema_review",
+      "human_approved": false,
+      "proposed_partner_dataset": null,
+      "joinability_verified": false,
+      "correlation_tested": false,
+      "required_checks": [
+        "원문 칼럼 명세에서 실제 키 확인",
+        "코드 관리기관·체계·버전·기준일 확인",
+        "후보 자료와 키 값 범위·형식·행정구역 변경 대조"
+      ]
+    }
+  ]
+}

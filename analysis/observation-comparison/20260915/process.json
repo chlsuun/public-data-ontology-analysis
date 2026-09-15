@@ -1,0 +1,58 @@
+[
+  {
+    "step": 1,
+    "title": "서버 자료에서 후보 선정",
+    "status": "완료",
+    "detail": "서버 DB의 OECD·World Bank·Eurostat·KOSIS 등록정보 6개를 근거로 검토. 인구를 선택하고 국가·기간을 수치 비교 전에 고정.",
+    "evidence": "server-catalog-selection.json"
+  },
+  {
+    "step": 2,
+    "title": "공식 원자료 확보",
+    "status": "완료",
+    "detail": "서버에 저장된 접근 경로에서 출발해 공식 API 관측값 120개 확보. 서버 DB 자체에는 등록정보가 있었으며, 관측값은 이번에 추가로 내려받음.",
+    "evidence": "raw/oecd-population.xml"
+  },
+  {
+    "step": 3,
+    "title": "정의·단위·기준일 대조",
+    "status": "조건부 완료",
+    "detail": "국가·연도·총성별·총연령을 맞추고 명 단위로 통일. 일본 2024년 기준일 및 독일 기준 변경은 주의 항목으로 보존.",
+    "evidence": "oecd-country-metadata-extract.json"
+  },
+  {
+    "step": 4,
+    "title": "출처별 데이터 QA",
+    "status": "완료",
+    "detail": "키 중복·결측·양수 여부·단위 배수·API 상태 코드·각주 확인. World Bank 단절 각주 3건. 빈 상태 필드는 정상 확인으로 취급하지 않음.",
+    "evidence": "qa.json"
+  },
+  {
+    "step": 5,
+    "title": "국가·연도 키로 결합",
+    "status": "완료",
+    "detail": "같은 국가의 같은 연도를 1:1 연결: 60쌍. 누락 0쌍. 보간·대체·임의 합산 없음.",
+    "evidence": "paired-observations.json"
+  },
+  {
+    "step": 6,
+    "title": "실제 수치와 증감 비교",
+    "status": "완료",
+    "detail": "명 차이·상대 차이·연간 증감·증가율 비교. 전체 60쌍과 주의 항목 제외 55쌍을 따로 계산.",
+    "evidence": "result.json"
+  },
+  {
+    "step": 7,
+    "title": "온톨로지 반영 근거 정리",
+    "status": "검토안 작성",
+    "detail": "동일 주제·조건부 비교 가능 관계의 근거로 정리. 같은 수치·인과관계·독립 검증을 뜻하지 않음.",
+    "evidence": "relationship-review.json"
+  },
+  {
+    "step": 8,
+    "title": "사람의 관계 승인",
+    "status": "미진행",
+    "detail": "국가별 정의와 개정 이력 검토 후 승인 필요. model.json 및 서버 관계 DB에 자동 확정하지 않음.",
+    "evidence": "relationship-review.json"
+  }
+]

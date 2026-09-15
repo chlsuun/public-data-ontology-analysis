@@ -1,0 +1,22 @@
+{
+  "topic": "annual total population",
+  "sources": [
+    "OECD DF_POP_HIST",
+    "World Bank WDI SP.POP.TOTL"
+  ],
+  "countries": [
+    "KOR",
+    "JPN",
+    "DEU",
+    "USA"
+  ],
+  "years": [
+    2010,
+    2024
+  ],
+  "scope_fixed_before_value_comparison": true,
+  "selection_reason": "Annual national population, all ages and sexes, mid-year estimates; actual DSD and access checks pending",
+  "statistical_purpose": "Cross-source agreement and annual change; not causal inference or portal ranking",
+  "missing_policy": "Report unmatched or flagged observations; no imputation",
+  "approval": "Human ontology relationship review remains pending"
+}

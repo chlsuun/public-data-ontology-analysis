@@ -1,0 +1,13 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.xml -text
+*.xlsx binary
+*.png binary
+# Preserve source bytes for receipt hashes, including source whitespace.
+analysis/observation-comparison/*/raw/** -text -whitespace
+# Matplotlib emits whitespace inside SVG path data.
+*.svg -whitespace

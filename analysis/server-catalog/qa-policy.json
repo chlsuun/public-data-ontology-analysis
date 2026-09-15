@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "status": "proposed_for_team_review",
+  "scope": "국내외 서버 카탈로그 비교 이후 적용할 유형별 QA 기준",
+  "not_measured_as_raw_data_quality": true,
+  "common_checks": [
+    {"id": "source_traceability", "question": "어느 포털·제공기관·자료 식별자·원문에서 왔는가?", "first_pass": "메타데이터에 기재됐는지 측정", "remaining": "원문과 식별자·기관 역할의 정확성 대조"},
+    {"id": "semantic_definition", "question": "무엇을 어떤 정의로 측정하거나 기록하는가?", "first_pass": "제목·설명·분류 기재 및 저장 주제 집계", "remaining": "지표 정의와 칼럼의 의미를 사람 검토"},
+    {"id": "temporal_scope", "question": "관측 기간·수정일·갱신 주기를 구분할 수 있는가?", "first_pass": "기간 기재·수정일 파싱·날짜 분포", "remaining": "기간의 실제 의미와 갱신 주기 준수 확인"},
+    {"id": "spatial_scope", "question": "어떤 지역·해상도·코드 체계를 사용하는가?", "first_pass": "지역 기재·설명문 코드/좌표 단서", "remaining": "공간 단위와 코드/경계 버전 검증"},
+    {"id": "reuse_conditions", "question": "자료별 이용조건과 제공 범위가 명확한가?", "first_pass": "이용조건 값 기재 여부만 측정", "remaining": "자료별 원문 조건을 근거와 함께 검토"},
+    {"id": "value_quality", "question": "실제 값의 결측·범위·단위·중복·정합성은 어떤가?", "first_pass": "측정하지 않음", "remaining": "선정한 관측값을 확보한 뒤 유형별 검사"}
+  ],
+  "profiles": [
+    {
+      "id": "statistical_catalog",
+      "example_sources": ["kosis", "ecos", "oecd", "worldbank", "eurostat", "census", "who"],
+      "criteria": ["통계표·지표·시리즈·데이터베이스 중 등록 단위 명시", "지표 정의·모집단·작성 방법", "단위·분모·계절조정·가격 기준", "시간 주기·관측 기간·개정판", "지역 및 분류 코드 체계·버전", "결측 코드와 실제 0의 구분"],
+      "portal_specific_review": {
+        "kosis": "통계표의 작성기관·통계표 ID·분류/항목·단위·주기를 원문 명세로 확인한다.",
+        "ecos": "통계표와 항목 코드·주기·단위를 확인한다. 동일 이름을 동일 지표로 간주하지 않는다.",
+        "oecd": "저장된 dataflow와 연결된 구조·차원·코드 목록·버전을 확인한다.",
+        "worldbank": "현재 수집 단위가 데이터베이스·시리즈다. 지표 단위 비교 전에 지표 정의와 국가·연도 차원을 별도로 확보한다.",
+        "census": "연도판을 묶은 시리즈라는 등록 단위를 유지하고, 연도별 변수 및 지역 코드 변경을 확인한다.",
+        "who": "지표 정의와 국가·기간·성별·연령 등 실제 관측 차원을 구분한다. 카탈로그 기재율을 보건 통계의 정확도로 해석하지 않는다."
+      }
+    },
+    {
+      "id": "general_open_data_catalog",
+      "example_sources": ["korea", "seoul", "eu", "us", "canada", "australia", "france"],
+      "criteria": ["파일·API·연계 목록 등 자료 유형", "포털 운영자와 원자료 제공기관 구분", "다운로드/API 접근 경로와 문서 경로 구분", "자료별 칼럼 명세·자료형·널 허용·키", "자료별 이용조건과 버전", "원 포털과 연계 포털 간 동일 자료 여부"],
+      "portal_specific_review": {
+        "korea": "API·파일·표준·연계 목록의 등록 단위를 구분하고 외부 연계 자료의 원 출처와 명세를 확인한다.",
+        "seoul": "월간 목록과 실시간 목록의 차이·서비스 종료 여부를 확인하고 데이터별 지역 코드·시점을 대조한다.",
+        "eu": "연계된 원 카탈로그와 배포 경로를 구분한다. 같은 자료가 국가 포털과 EU 포털에 반복되는지 별도 검토한다.",
+        "us": "상위 자료·시리즈·배포파일의 관계와 제공기관을 구분하고 개별 자료 스키마를 확인한다."
+      }
+    },
+    {
+      "id": "spatial_and_environmental_data",
+      "example_sources": ["vworld", "sgis", "kma"],
+      "criteria": ["좌표 참조 체계와 축 순서", "공간 해상도·정밀도·범위", "행정구역 코드·경계 기준일", "관측·예보·모형 값 구분", "관측소·격자·행정구역 간 집계 방법", "측정 단위·시간대·결측 및 품질 플래그"],
+      "portal_specific_review": {
+        "vworld": "레이어·서비스·자료의 등록 단위를 먼저 확인하고 좌표계·범위·버전을 대조한다.",
+        "sgis": "집계구·행정구역 코드와 통계의 기준 시점 및 공간 집계 수준을 확인한다.",
+        "kma": "서비스 설명의 관측/예보 구분과 지점·격자·시간·측정 단위를 실제 명세에서 확인한다."
+      }
+    }
+  ],
+  "scoring_policy": {
+    "first_pass": "공통 8개 메타데이터 항목의 기재 수준만 같은 가중치로 0~10 계산",
+    "source_specific_score": null,
+    "reason": "유형별 필수 항목·적용 제외·원문 대조 결과가 아직 확정되지 않아 사이트별 종합 품질 점수는 산출하지 않음",
+    "future_missing_value_rule": "미확인·미수집·해당 없음·검증 실패를 구분하고 적용 제외에는 근거를 요구한다.",
+    "future_review_rule": "관계 승인에는 대상 데이터셋·칼럼·정의·근거·검토자·검토일·적용 기간을 기록한다."
+  }
+}

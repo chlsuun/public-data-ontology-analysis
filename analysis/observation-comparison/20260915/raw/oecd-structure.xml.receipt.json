@@ -1,0 +1,17 @@
+{
+  "url": "https://sdmx.oecd.org/public/rest/dataflow/OECD.ELS.SAE/DSD_POPULATION@DF_POP_HIST/1.0?references=all",
+  "started_at": "2026-09-15T13:11:56.889992+00:00",
+  "accept": "application/vnd.sdmx.structure+xml;version=2.1",
+  "byte_limit": 12000000,
+  "status": 200,
+  "final_url": "https://sdmx.oecd.org/public/rest/dataflow/OECD.ELS.SAE/DSD_POPULATION@DF_POP_HIST/1.0?references=all",
+  "headers": {
+    "Date": "Tue, 15 Sep 2026 13:11:59 GMT",
+    "Content-Type": "application/vnd.sdmx.structure+xml; version=2.1; charset=utf-8",
+    "Last-Modified": "2023-11-14"
+  },
+  "bytes": 1156313,
+  "sha256": "cbb0d3307e0d7218acdfa769666f3b93a34d8d698bd592dc27fdf81676673480",
+  "file": "oecd-structure.xml",
+  "finished_at": "2026-09-15T13:11:59.298039+00:00"
+}

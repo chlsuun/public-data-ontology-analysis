@@ -1,0 +1,726 @@
+[
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2010,
+    "oecd": 81776936,
+    "worldbank": 81776930,
+    "difference_persons": 6,
+    "difference_pct": 7.3370325836394205e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2011,
+    "oecd": 80274981,
+    "worldbank": 80274983,
+    "difference_persons": -2,
+    "difference_pct": -2.491436217432771e-06,
+    "warnings": [
+      {
+        "code": "wb_footnote",
+        "text": "Break in series.",
+        "sensitivity_exclude": true
+      },
+      {
+        "code": "series_benchmark",
+        "text": "OECD 국가 설명표: 2010/11년 새 계열 기준 도입.",
+        "sensitivity_exclude": true
+      }
+    ],
+    "sensitivity_included": false
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2012,
+    "oecd": 80425826,
+    "worldbank": 80425823,
+    "difference_persons": 3,
+    "difference_pct": 3.730145229598707e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2013,
+    "oecd": 80645605,
+    "worldbank": 80645605,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2014,
+    "oecd": 80982495,
+    "worldbank": 80982500,
+    "difference_persons": -5,
+    "difference_pct": -6.17417343253172e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2015,
+    "oecd": 81686608,
+    "worldbank": 81686611,
+    "difference_persons": -3,
+    "difference_pct": -3.672572485593753e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2016,
+    "oecd": 82348669,
+    "worldbank": 82348669,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2017,
+    "oecd": 82657000,
+    "worldbank": 82657002,
+    "difference_persons": -2,
+    "difference_pct": -2.4196377216778318e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2018,
+    "oecd": 82905788,
+    "worldbank": 82905782,
+    "difference_persons": 6,
+    "difference_pct": 7.237130939793801e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2019,
+    "oecd": 83092956,
+    "worldbank": 83092962,
+    "difference_persons": -6,
+    "difference_pct": -7.220828161114295e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2020,
+    "oecd": 83160877,
+    "worldbank": 83160871,
+    "difference_persons": 6,
+    "difference_pct": 7.214931647360933e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2021,
+    "oecd": 83196076,
+    "worldbank": 83196078,
+    "difference_persons": -2,
+    "difference_pct": -2.403959475108911e-06,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2022,
+    "oecd": 83797987,
+    "worldbank": 83177813,
+    "difference_persons": 620174,
+    "difference_pct": 0.745600272034082,
+    "warnings": [
+      {
+        "code": "wb_footnote",
+        "text": "Break in series.",
+        "sensitivity_exclude": true
+      }
+    ],
+    "sensitivity_included": false
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2023,
+    "oecd": 83287281,
+    "worldbank": 83287273,
+    "difference_persons": 8,
+    "difference_pct": 9.60530908485862e-06,
+    "warnings": [
+      {
+        "code": "wb_footnote",
+        "text": "Break in series.",
+        "sensitivity_exclude": true
+      },
+      {
+        "code": "reference_estimation_review",
+        "text": "OECD 국가 설명표: 1월 1일 추정치를 바탕으로 산출.",
+        "sensitivity_exclude": true
+      }
+    ],
+    "sensitivity_included": false
+  },
+  {
+    "country": "DEU",
+    "country_name": "독일",
+    "year": 2024,
+    "oecd": 83516599,
+    "worldbank": 83516593,
+    "difference_persons": 6,
+    "difference_pct": 7.18420110839531e-06,
+    "warnings": [
+      {
+        "code": "reference_estimation_review",
+        "text": "OECD 국가 설명표: 1월 1일 추정치를 바탕으로 산출.",
+        "sensitivity_exclude": true
+      }
+    ],
+    "sensitivity_included": false
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2010,
+    "oecd": 128057352,
+    "worldbank": 128070000,
+    "difference_persons": -12648,
+    "difference_pct": -0.009875849144998828,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2011,
+    "oecd": 127834233,
+    "worldbank": 127833000,
+    "difference_persons": 1233,
+    "difference_pct": 0.0009645396728544273,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2012,
+    "oecd": 127592657,
+    "worldbank": 127629000,
+    "difference_persons": -36343,
+    "difference_pct": -0.02847550321635365,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2013,
+    "oecd": 127413888,
+    "worldbank": 127445000,
+    "difference_persons": -31112,
+    "difference_pct": -0.02441209933696889,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2014,
+    "oecd": 127237150,
+    "worldbank": 127276000,
+    "difference_persons": -38850,
+    "difference_pct": -0.03052421509161193,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2015,
+    "oecd": 127094745,
+    "worldbank": 127141000,
+    "difference_persons": -46255,
+    "difference_pct": -0.03638086848459584,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2016,
+    "oecd": 127041812,
+    "worldbank": 127076000,
+    "difference_persons": -34188,
+    "difference_pct": -0.026903585256067234,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2017,
+    "oecd": 126918546,
+    "worldbank": 126972000,
+    "difference_persons": -53454,
+    "difference_pct": -0.04209904545884132,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2018,
+    "oecd": 126748506,
+    "worldbank": 126811000,
+    "difference_persons": -62494,
+    "difference_pct": -0.04928121377483026,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2019,
+    "oecd": 126555078,
+    "worldbank": 126633000,
+    "difference_persons": -77922,
+    "difference_pct": -0.06153372343701879,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2020,
+    "oecd": 126146099,
+    "worldbank": 126261000,
+    "difference_persons": -114901,
+    "difference_pct": -0.0910027641156018,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2021,
+    "oecd": 125502290,
+    "worldbank": 125681593,
+    "difference_persons": -179303,
+    "difference_pct": -0.14266448707409365,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2022,
+    "oecd": 124946789,
+    "worldbank": 125124989,
+    "difference_persons": -178200,
+    "difference_pct": -0.14241759493781053,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2023,
+    "oecd": 124351877,
+    "worldbank": 124516650,
+    "difference_persons": -164773,
+    "difference_pct": -0.13233009400750823,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "JPN",
+    "country_name": "일본",
+    "year": 2024,
+    "oecd": 123801750,
+    "worldbank": 123975371,
+    "difference_persons": -173621,
+    "difference_pct": -0.14004475130790292,
+    "warnings": [
+      {
+        "code": "reference_date_review",
+        "text": "OECD 국가 설명표: 2024년 10월 추정치. 연중 기준과의 정합성 추가 확인 필요.",
+        "sensitivity_exclude": true
+      }
+    ],
+    "sensitivity_included": false
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2010,
+    "oecd": 49554112,
+    "worldbank": 49554112,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2011,
+    "oecd": 49936638,
+    "worldbank": 49936638,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2012,
+    "oecd": 50199853,
+    "worldbank": 50199853,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2013,
+    "oecd": 50428893,
+    "worldbank": 50428893,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2014,
+    "oecd": 50746659,
+    "worldbank": 50746659,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2015,
+    "oecd": 51014947,
+    "worldbank": 51014947,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2016,
+    "oecd": 51217803,
+    "worldbank": 51217803,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2017,
+    "oecd": 51361911,
+    "worldbank": 51361911,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2018,
+    "oecd": 51585058,
+    "worldbank": 51585058,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2019,
+    "oecd": 51764822,
+    "worldbank": 51764822,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2020,
+    "oecd": 51836239,
+    "worldbank": 51836239,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2021,
+    "oecd": 51769539,
+    "worldbank": 51769539,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [
+      {
+        "code": "revised_estimate",
+        "text": "OECD 국가 설명표: 2021~2024년 새 추정치 반영. 개정 안내 자체로 제외하지 않음.",
+        "sensitivity_exclude": false
+      }
+    ],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2022,
+    "oecd": 51672569,
+    "worldbank": 51672569,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [
+      {
+        "code": "revised_estimate",
+        "text": "OECD 국가 설명표: 2021~2024년 새 추정치 반영. 개정 안내 자체로 제외하지 않음.",
+        "sensitivity_exclude": false
+      }
+    ],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2023,
+    "oecd": 51712619,
+    "worldbank": 51712619,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [
+      {
+        "code": "revised_estimate",
+        "text": "OECD 국가 설명표: 2021~2024년 새 추정치 반영. 개정 안내 자체로 제외하지 않음.",
+        "sensitivity_exclude": false
+      }
+    ],
+    "sensitivity_included": true
+  },
+  {
+    "country": "KOR",
+    "country_name": "한국",
+    "year": 2024,
+    "oecd": 51751065,
+    "worldbank": 51751065,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [
+      {
+        "code": "revised_estimate",
+        "text": "OECD 국가 설명표: 2021~2024년 새 추정치 반영. 개정 안내 자체로 제외하지 않음.",
+        "sensitivity_exclude": false
+      }
+    ],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2010,
+    "oecd": 309378227,
+    "worldbank": 309378227,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2011,
+    "oecd": 311839461,
+    "worldbank": 311839461,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2012,
+    "oecd": 314339099,
+    "worldbank": 314339099,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2013,
+    "oecd": 316726282,
+    "worldbank": 316726282,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2014,
+    "oecd": 319257560,
+    "worldbank": 319257560,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2015,
+    "oecd": 321815121,
+    "worldbank": 321815121,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2016,
+    "oecd": 324353340,
+    "worldbank": 324353340,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2017,
+    "oecd": 326608609,
+    "worldbank": 326608609,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2018,
+    "oecd": 328529577,
+    "worldbank": 328529577,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2019,
+    "oecd": 330226227,
+    "worldbank": 330226227,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2020,
+    "oecd": 331578104,
+    "worldbank": 331578104,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2021,
+    "oecd": 332100166,
+    "worldbank": 332100166,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2022,
+    "oecd": 333996304,
+    "worldbank": 333996304,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2023,
+    "oecd": 336755052,
+    "worldbank": 336755052,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  },
+  {
+    "country": "USA",
+    "country_name": "미국",
+    "year": 2024,
+    "oecd": 340003797,
+    "worldbank": 340003797,
+    "difference_persons": 0,
+    "difference_pct": 0.0,
+    "warnings": [],
+    "sensitivity_included": true
+  }
+]

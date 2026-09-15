@@ -1,0 +1,17 @@
+{
+  "url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_POPULATION@DF_POP_HIST,1.0/KOR+JPN+DEU+USA.POP.PS._T._T.H?startPeriod=2010&endPeriod=2024&dimensionAtObservation=AllDimensions&format=genericdata",
+  "started_at": "2026-09-15T13:12:44.941045+00:00",
+  "accept": "application/vnd.sdmx.genericdata+xml;version=2.1",
+  "byte_limit": 12000000,
+  "status": 200,
+  "final_url": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_POPULATION@DF_POP_HIST,1.0/KOR+JPN+DEU+USA.POP.PS._T._T.H?startPeriod=2010&endPeriod=2024&dimensionAtObservation=AllDimensions&format=genericdata",
+  "headers": {
+    "Date": "Tue, 15 Sep 2026 13:12:47 GMT",
+    "Content-Type": "application/vnd.sdmx.genericdata+xml; version=2.1; charset=utf-8",
+    "Last-Modified": "2023-11-29"
+  },
+  "bytes": 34787,
+  "sha256": "1fad5ea2aa11d01c6187af0daf5ac20e9d1eb5b7e5d295d32d2405f166b0c949",
+  "file": "oecd-population.xml",
+  "finished_at": "2026-09-15T13:12:46.122084+00:00"
+}

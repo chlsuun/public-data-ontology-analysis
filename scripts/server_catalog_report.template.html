@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>서버 카탈로그 · 국내외 포털 비교</title>
+<style>
+:root{color-scheme:light;--ink:#182a3c;--muted:#526579;--line:#d7e0e8;--blue:#155a91;--orange:#a45516;--bg:#f3f6f9}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 system-ui,"Malgun Gothic",sans-serif}header{background:#122c43;color:#fff;padding:36px max(24px,calc((100vw - 1320px)/2)) 30px}header p{color:#c6d7e6;max-width:1000px}h1{margin:0 0 8px;font-size:30px;letter-spacing:-.8px}h2{font-size:21px;margin:0 0 12px}h3{font-size:17px;margin:18px 0 8px}p{margin:7px 0 14px}a{color:var(--blue)}header a{color:#aadaff}main{max-width:1368px;margin:auto;padding:24px}.meta{font-size:13px;color:var(--muted)}header .meta{color:#c6d7e6}.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:24px}.metric,section{background:white;border:1px solid var(--line);border-radius:10px;padding:20px}.metric strong{font-size:28px;display:block;letter-spacing:-.7px}.metric span{color:var(--muted);font-size:13px}.two{display:grid;grid-template-columns:1.1fr 1fr;gap:20px;margin-bottom:20px}section{margin-bottom:20px}.two section{margin:0}.legend{display:flex;gap:20px;margin:8px 0 14px}.dot{display:inline-block;width:11px;height:11px;margin-right:5px;border-radius:2px}.kr{background:var(--blue)}.foreign{background:var(--orange)}.comparison-row{display:grid;grid-template-columns:78px 1fr;gap:12px;margin:12px 0}.bar-line{display:grid;grid-template-columns:1fr 56px;align-items:center;gap:8px;margin:3px 0}.track{height:12px;background:#eef2f6;border-radius:3px;overflow:hidden}.bar{height:100%;min-width:0}.number{text-align:right;font-variant-numeric:tabular-nums}.notice{border-left:3px solid #748da5;padding-left:12px;color:var(--muted);font-size:13px}.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin:16px 0}label{display:flex;flex-direction:column;gap:4px;font-size:13px}select,input,button{font:inherit;color:inherit}input,select{padding:8px 10px;border:1px solid #aabcc9;border-radius:5px;background:white;min-height:40px}button{cursor:pointer}.source-button{padding:0;border:0;background:none;color:var(--blue);text-align:left;text-decoration:underline;text-underline-offset:3px;white-space:normal}.source-button:focus-visible{outline:3px solid #77b4e0;outline-offset:4px}.scroll{overflow-x:auto}.table{border-collapse:collapse;width:100%;font-size:13px}.table th{text-align:left;background:#edf3f7;color:#2e485c;white-space:nowrap}.table td,.table th{padding:10px 9px;border-bottom:1px solid var(--line);vertical-align:top}.table .number{text-align:right}.table td:first-child{min-width:150px}.table tr.selected td{background:#eaf4fc}.tiny{font-size:12px}.pill{display:inline-block;padding:2px 7px;border-radius:4px;background:#edf2f5;font-size:12px}.pending{background:#fff1df;color:#805010}.pass{background:#eaf5ef;color:#275941}.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.details-summary{background:#f5f8fa;padding:14px}.source-note{white-space:pre-wrap;overflow-wrap:anywhere}.empty{color:var(--muted);padding:14px 0}details{margin:12px 0}summary{cursor:pointer;color:var(--blue)}code{font-family:ui-monospace,monospace;overflow-wrap:anywhere}footer{max-width:1320px;margin:0 auto;padding:0 24px 35px;color:var(--muted);font-size:13px}.topic-list{max-height:425px;overflow:auto}.links{display:flex;gap:16px;flex-wrap:wrap;margin-top:10px}#selectedDetail{scroll-margin-top:20px}@media(max-width:900px){.two,.detail-grid{grid-template-columns:1fr}.metrics{grid-template-columns:repeat(2,1fr)}header{padding:25px 20px}h1{font-size:25px}main{padding:16px}section{padding:16px}}@media(max-width:450px){.metrics{gap:9px}.metric{padding:14px}.metric strong{font-size:22px}.comparison-row{grid-template-columns:68px 1fr;gap:8px}}@media print{body{background:white}.controls{display:none}.two{display:block}section{break-inside:avoid}.scroll,.topic-list{overflow:visible;max-height:none}.metric strong{font-size:22px}header{background:white;color:black}header p,header .meta{color:#444}}
+</style>
+</head>
+<body>
+<header>
+<p class="meta">WANTED ATLAS / 서버 데이터 분석</p>
+<h1>국내외 공공데이터 포털 비교</h1>
+<p>서버에 저장된 등록정보 전체를 읽어 수집 범위, 메타데이터 기재 수준, 개념 분류와 연결 단서를 비교했습니다.</p>
+<div class="meta" id="timestamp"></div>
+<div class="links"><a href="REPORT.md">상세 결과 보고서</a><a href="report.json">집계 및 재현 근거</a><a href="https://github.com/chlsuun/public-data-ontology/tree/codex/server-catalog-analysis-20260915" target="_blank" rel="noopener noreferrer">기존 작업 보존 브랜치</a></div>
+</header>
+<main>
+<section aria-labelledby="observationsTitle"><h2 id="observationsTitle">실제 관측값 분석으로 이어 보기</h2><p>OECD와 World Bank의 4개국·15년 총인구 120개를 비교했습니다. 국가·연도 결합, 출처별 QA, 통계 단절, 실제 수치와 증가율 비교 과정을 확인할 수 있습니다.</p><a href="../../observation-comparison/20260915/index.html">분석 과정과 실제 데이터 비교 열기 →</a></section>
+<div class="metrics" id="headline"></div>
+<div class="two">
+<section aria-labelledby="metadataTitle">
+<h2 id="metadataTitle">국내·해외의 항목 기재율</h2>
+<p class="meta">각 그룹의 중복 표시 제외 후 등록 건수를 분모로 계산했습니다.</p>
+<div class="legend"><span><span class="dot kr"></span>국내</span><span><span class="dot foreign"></span>해외·국제기구</span></div>
+<div id="comparison" aria-label="국내와 해외 그룹의 항목별 기재율 비교"></div>
+<p class="notice">내용이 기재돼 있다는 뜻입니다. 정확성·재사용 허가·실제 관측값의 품질을 검증한 점수가 아닙니다.</p>
+<p class="notice">기본 미확인 표기는 제외했지만, 미확인 코드 URL·구분자만 있는 값 등이 남아 있습니다. 상세 보고서에서 해석상 검토 항목을 확인하세요.</p>
+</section>
+<section aria-labelledby="topicTitle">
+<h2 id="topicTitle">어떤 주제로 분류돼 있는가</h2>
+<p class="meta">서버에 저장된 분류 결과입니다. 한 자료에 여러 주제가 붙을 수 있습니다.</p>
+<div class="topic-list"><table class="table"><thead><tr><th>주제</th><th class="number">국내</th><th class="number">해외·국제기구</th></tr></thead><tbody id="topics"></tbody></table></div>
+<p class="notice">AI·키워드 분류의 타당성을 재검증한 결과가 아닙니다. 분류가 같아도 두 자료가 같은 의미이거나 결합 가능한 것은 아닙니다.</p>
+</section>
+</div>
+<section aria-labelledby="portalTitle">
+<h2 id="portalTitle">포털별 수집·기재 수준</h2>
+<div class="controls">
+<label>범위<select id="scope"><option value="all">국내외 전체</option><option value="kr">국내</option><option value="foreign">해외·국제기구</option></select></label>
+<label>포털 찾기<input id="search" type="search" placeholder="예: KOSIS, World Bank"></label>
+<label>정렬<select id="sort"><option value="rows">등록 건수 많은 순</option><option value="score">기재 점수 높은 순</option><option value="period">기간 기재율 높은 순</option><option value="license">이용조건 기재율 높은 순</option><option value="name">이름순</option></select></label>
+</div>
+<p class="meta" id="tableSummary"></p>
+<div class="scroll"><table class="table" id="portalTable"><thead><tr><th>포털 · 상세 보기</th><th class="number">원시 등록</th><th class="number">비교 분모</th><th class="number">기재 /10</th><th class="number">설명</th><th class="number">지역</th><th class="number">기간</th><th class="number">이용조건</th><th class="number">미분류</th><th>수집 상태</th></tr></thead><tbody id="portals"></tbody></table></div>
+<p class="notice">기재 점수 = 제목·설명·제공기관·자료 링크·형식·이용조건·지역·기간의 평균 기재율 × 10. 미확인 표기는 제외합니다. 기간이나 지역이 적용되지 않는 자료, 수집기에서 빠진 정보도 있으므로 포털 신뢰도 순위로 해석하지 마세요. 자료가 없는 출처는 점수를 산출하지 않습니다.</p>
+<p class="notice">등록 단위도 서로 다릅니다. World Bank는 데이터베이스·시리즈, WHO는 지표, OECD는 dataflow, KOSIS는 통계표입니다. 건수는 현재 저장량을 보여주며 동일한 크기의 데이터셋을 비교한 수치는 아닙니다.</p>
+</section>
+<section id="selectedDetail" aria-labelledby="detailTitle"><h2 id="detailTitle">포털 상세</h2><div id="detail"></div></section>
+<section aria-labelledby="flagsTitle"><h2 id="flagsTitle">기재돼 있어도 원문 검토가 필요한 값</h2><div id="interpretationFlags"></div></section>
+<div class="two">
+<section aria-labelledby="similarityTitle"><h2 id="similarityTitle">주제 분포가 비슷한 포털</h2><p class="meta">100건 이상 분류된 출처 간 코사인 유사도 · 1에 가까울수록 분류 비중이 유사</p><div class="scroll"><table class="table"><thead><tr><th>포털 A</th><th>포털 B</th><th class="number">유사도</th></tr></thead><tbody id="similarities"></tbody></table></div><p class="notice">탐색할 출처 후보를 좁히는 지표입니다. 실제 변수 간 상관계수나 데이터 중복률이 아닙니다.</p></section>
+<section aria-labelledby="pairsTitle"><h2 id="pairsTitle">같은 자료에 함께 붙은 주제</h2><p class="meta">자료별 중복 주제를 제거한 뒤 주제 쌍을 집계했습니다.</p><div class="scroll"><table class="table"><thead><tr><th>주제 쌍</th><th class="number">자료 수</th></tr></thead><tbody id="pairs"></tbody></table></div><p class="notice">동시 분류된 자료부터 원문을 검토할 수 있습니다. 관계의 의미·조인 가능성·통계적 관계는 아직 확정하지 않았습니다.</p></section>
+</div>
+</main>
+<footer>이번 입력은 데이터셋 등록정보입니다. 원본 관측값을 새로 내려받거나 서버의 관계를 수정하지 않았습니다. 비교 결과는 저장된 수집·분류 방식과 포털별 자료 유형의 영향을 받습니다.</footer>
+<script type="application/json" id="reportData">__REPORT_DATA__</script>
+<script>
+(()=>{
+'use strict';
+const data=JSON.parse(document.getElementById('reportData').textContent);
+const byId=Object.fromEntries(data.sources.map(s=>[s.id,s]));
+const el=id=>document.getElementById(id);
+const esc=v=>String(v??'미기재').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const num=v=>Number(v||0).toLocaleString('ko-KR');
+const percent=v=>v==null?'—':Number(v).toFixed(1)+'%';
+const pct=(a,b)=>b?100*a/b:null;
+const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:null}catch{return null}};
+const auditStatus=s=>s.scan?.status||'미기재';
+const statusLabel={complete:'완료 표기',paused:'보류',running:'진행 중'};
+let selected='kosis';
+const total=data.groups.all;
+el('timestamp').textContent='실제 서버 전수 집계 · '+new Date(data.finished_at).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'})+' KST';
+el('headline').innerHTML=[['원시 등록정보',num(total.raw_rows)+'건','데이터셋 등록 행'],['중복 표시 제외 후',num(total.analysis_rows)+'건','내용 비교의 분모'],['국내 자료',num(data.groups.domestic.raw_rows)+'건',percent(pct(data.groups.domestic.raw_rows,total.raw_rows))+' · 출처 국가 기준'],['자료 있는 출처',data.sources.filter(s=>s.metrics.raw_rows).length+' / '+data.sources.length+'곳','등록 출처 중 자료 보유']].map(x=>`<div class="metric"><span>${esc(x[0])}</span><strong>${esc(x[1])}</strong><span>${esc(x[2])}</span></div>`).join('');
+el('comparison').innerHTML=['description','publisher','format','license','region','period','source_modified','metadata_url'].map(k=>`<div class="comparison-row"><span>${esc(data.labels[k])}</span><div>${[['domestic','kr','국내'],['foreign_international','foreign','해외·국제기구']].map(([group,cls,name])=>{const value=data.groups[group].field_rates_pct[k];return `<div class="bar-line" aria-label="${esc(name)} ${esc(data.labels[k])} ${percent(value)}"><div class="track"><div class="bar ${cls}" style="width:${value||0}%"></div></div><span class="number tiny">${percent(value)}</span></div>`}).join('')}</div></div>`).join('');
+el('topics').innerHTML=Object.entries(total.concept_counts).sort((a,b)=>b[1]-a[1]).map(([cid,count])=>`<tr><td>${esc(data.concepts[cid])}</td><td class="number">${num(data.groups.domestic.concept_counts[cid])}</td><td class="number">${num(data.groups.foreign_international.concept_counts[cid])}</td></tr>`).join('');
+el('similarities').innerHTML=data.similarities.slice(0,10).map(p=>`<tr><td>${esc(byId[p.source_a].name)}</td><td>${esc(byId[p.source_b].name)}</td><td class="number">${p.cosine_similarity.toFixed(3)}</td></tr>`).join('');
+el('pairs').innerHTML=data.pairs.slice(0,10).map(p=>`<tr><td>${esc(data.concepts[p.concept_a])} + ${esc(data.concepts[p.concept_b])}</td><td class="number">${num(p.rows)}</td></tr>`).join('');
+el('interpretationFlags').innerHTML=data.interpretation_flags.map(x=>`<p><strong>${esc(x.source_name)} · ${esc(data.labels[x.field])} · ${num(x.rows)}건</strong><br><code>${esc(x.value)}</code><br><span class="meta">${esc(x.interpretation)}</span></p>`).join('')||'<p class="meta">현재 요약에 포함된 검토 사례가 없습니다.</p>';
+function updateTable(){
+ const query=el('search').value.trim().toLocaleLowerCase(),scope=el('scope').value,sort=el('sort').value;
+ let sources=data.sources.filter(s=>(scope==='all'||(scope==='kr')===(s.country==='대한민국'))&&(!query||(s.name+' '+s.id+' '+s.country).toLocaleLowerCase().includes(query)));
+ const value=s=>sort==='score'?(s.metrics.metadata_documentation_score_0_10??-1):sort==='period'||sort==='license'?(s.metrics.field_rates_pct[sort]??-1):s.metrics.raw_rows;
+ sources.sort((a,b)=>sort==='name'?a.name.localeCompare(b.name,'ko'):value(b)-value(a));
+ el('tableSummary').textContent=sources.length+'개 출처 · 원시 등록 합계 '+num(sources.reduce((n,s)=>n+s.metrics.raw_rows,0))+'건 · 포털 이름을 선택하면 기재 값과 연결 단서를 확인할 수 있습니다.';
+ el('portals').innerHTML=sources.map(s=>{const m=s.metrics,state=auditStatus(s);return `<tr class="${selected===s.id?'selected':''}"><td><button class="source-button" data-source="${esc(s.id)}">${esc(s.name)}</button><div class="meta">${esc(s.country)}</div></td><td class="number">${num(m.raw_rows)}</td><td class="number">${num(m.analysis_rows)}</td><td class="number">${m.metadata_documentation_score_0_10==null?'—':m.metadata_documentation_score_0_10.toFixed(2)}</td>${['description','region','period','license'].map(k=>`<td class="number">${percent(m.field_rates_pct[k])}</td>`).join('')}<td class="number">${num(m.quality_signals.unclassified_rows)}</td><td><span class="pill ${state==='complete'?'pass':'pending'}">${esc(statusLabel[state]||state)}</span></td></tr>`}).join('');
+}
+function showDetail(id,scroll){
+ const s=byId[id];if(!s)return;selected=id;const m=s.metrics,q=m.quality_signals;
+ el('detailTitle').textContent=s.name+' · 저장 내용 확인';
+ const url=safeUrl(s.url);
+ const detailFields=Object.entries(data.labels).map(([k,label])=>`<tr><td>${esc(label)}</td><td class="number">${num(m.informative[k])}건</td><td class="number">${percent(m.field_rates_pct[k])}</td></tr>`).join('');
+ const dates=`완전한 수정일 ${num(q.modified_date_parseable)}건 · 미래 날짜 ${num(q.modified_date_future)}건 · 최근 365일 ${num(q.modified_within_365_days)}건`;
+ const samples=Object.entries(m.examples).flatMap(([key,items])=>items.map(x=>{const link=safeUrl(x.url);return `<li>${link?`<a href="${esc(link)}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a>`:esc(x.title)}<div class="meta">${esc(x.id)} · 명시 단서: ${esc(x.matched_text)} · 결합 미검증</div></li>`})).join('');
+ const values=['license','region','period','format'].map(k=>`<details><summary>${esc(data.labels[k])}에 많이 저장된 값</summary><table class="table"><thead><tr><th>저장된 값</th><th class="number">자료 수</th></tr></thead><tbody>${m.common_values[k].map(x=>`<tr><td>${esc(x.value||'(공백)')}</td><td class="number">${num(x.rows)}</td></tr>`).join('')}</tbody></table></details>`).join('');
+ el('detail').innerHTML=`<div class="detail-grid"><div><div class="details-summary">${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">원 포털 열기</a>`:''}<p class="meta">등록 ${num(m.raw_rows)}건 · 기존 중복 표시 ${num(m.duplicate_marked_rows)}건 · 비교 분모 ${num(m.analysis_rows)}건</p><p class="meta">${esc(dates)}</p><p class="meta">지역·기간 모두 기재 ${num(q.region_and_period_stated)}건 · 검토자 필드 없는 승인 매핑 ${num(q.approved_mapping_without_reviewer_field)}건</p></div><h3>원문에 나타난 연결 단서</h3>${samples?`<ul>${samples}</ul>`:'<p class="empty">현재 한국어·영어 패턴으로 잡힌 예시가 없습니다. 연결 불가능하다는 뜻은 아닙니다.</p>'}<p class="notice">설명문에 등장한 용어입니다. 실제 칼럼과 코드 체계·단위·해상도를 확인해야 합니다.</p><h3>저장된 수집 범위</h3><p class="source-note meta">${esc(s.collection_audit?.scope||'범위 설명 미기재')}</p><p class="meta">대조 상태: ${esc(s.collection_audit?.status||'미기재')}</p></div><div><table class="table"><thead><tr><th>항목</th><th class="number">기재 자료</th><th class="number">기재율</th></tr></thead><tbody>${detailFields}</tbody></table>${values}</div></div>`;
+ updateTable();if(scroll)el('selectedDetail').scrollIntoView({behavior:'smooth',block:'start'});
+}
+el('scope').addEventListener('change',updateTable);el('search').addEventListener('input',updateTable);el('sort').addEventListener('change',updateTable);
+el('portals').addEventListener('click',event=>{const b=event.target.closest('button[data-source]');if(b)showDetail(b.dataset.source,true)});
+showDetail(byId[selected]?selected:data.sources[0].id,false);
+})();
+</script>
+</body>
+</html>

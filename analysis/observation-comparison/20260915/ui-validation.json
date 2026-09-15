@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checked_at": "2026-09-15T15:19:29.042Z",
+  "mode": "offline JavaScript DOM adapter; not browser layout verification",
+  "checks": [
+    "60 initial rows",
+    "8 process stages",
+    "country filter",
+    "5 caution pairs",
+    "combined filters and zero results",
+    "JSON export of selected rows",
+    "local evidence links",
+    "no undefined or NaN"
+  ],
+  "browser_visual_check": {
+    "status": "not_performed",
+    "reason": "Browser URL security policy rejected file URL; no alternate browser or local-server workaround attempted"
+  },
+  "visual_figures": "PNG charts inspected separately from browser"
+}

@@ -1,0 +1,2162 @@
+[
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2018,
+    "persons": 126748506,
+    "raw_value": "126748506",
+    "dimensions": {
+      "TIME_PERIOD": "2018",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2019,
+    "persons": 126555078,
+    "raw_value": "126555078",
+    "dimensions": {
+      "TIME_PERIOD": "2019",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2020,
+    "persons": 126146099,
+    "raw_value": "126146099",
+    "dimensions": {
+      "TIME_PERIOD": "2020",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2021,
+    "persons": 125502290,
+    "raw_value": "125502290",
+    "dimensions": {
+      "TIME_PERIOD": "2021",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2022,
+    "persons": 124946789,
+    "raw_value": "124946789",
+    "dimensions": {
+      "TIME_PERIOD": "2022",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2011,
+    "persons": 311839461,
+    "raw_value": "311839461",
+    "dimensions": {
+      "TIME_PERIOD": "2011",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2012,
+    "persons": 314339099,
+    "raw_value": "314339099",
+    "dimensions": {
+      "TIME_PERIOD": "2012",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2013,
+    "persons": 316726282,
+    "raw_value": "316726282",
+    "dimensions": {
+      "TIME_PERIOD": "2013",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2017,
+    "persons": 326608609,
+    "raw_value": "326608609",
+    "dimensions": {
+      "TIME_PERIOD": "2017",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2018,
+    "persons": 328529577,
+    "raw_value": "328529577",
+    "dimensions": {
+      "TIME_PERIOD": "2018",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2019,
+    "persons": 330226227,
+    "raw_value": "330226227",
+    "dimensions": {
+      "TIME_PERIOD": "2019",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2020,
+    "persons": 331578104,
+    "raw_value": "331578104",
+    "dimensions": {
+      "TIME_PERIOD": "2020",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2021,
+    "persons": 332100166,
+    "raw_value": "332100166",
+    "dimensions": {
+      "TIME_PERIOD": "2021",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2022,
+    "persons": 333996304,
+    "raw_value": "333996304",
+    "dimensions": {
+      "TIME_PERIOD": "2022",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2023,
+    "persons": 336755052,
+    "raw_value": "336755052",
+    "dimensions": {
+      "TIME_PERIOD": "2023",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2020,
+    "persons": 83160877,
+    "raw_value": "83160877",
+    "dimensions": {
+      "TIME_PERIOD": "2020",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2021,
+    "persons": 83196076,
+    "raw_value": "83196076",
+    "dimensions": {
+      "TIME_PERIOD": "2021",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2023,
+    "persons": 83287281,
+    "raw_value": "83287281",
+    "dimensions": {
+      "TIME_PERIOD": "2023",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2022,
+    "persons": 83797987,
+    "raw_value": "83797987",
+    "dimensions": {
+      "TIME_PERIOD": "2022",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2015,
+    "persons": 51014947,
+    "raw_value": "51014947",
+    "dimensions": {
+      "TIME_PERIOD": "2015",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2016,
+    "persons": 51217803,
+    "raw_value": "51217803",
+    "dimensions": {
+      "TIME_PERIOD": "2016",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2017,
+    "persons": 51361911,
+    "raw_value": "51361911",
+    "dimensions": {
+      "TIME_PERIOD": "2017",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2018,
+    "persons": 51585058,
+    "raw_value": "51585058",
+    "dimensions": {
+      "TIME_PERIOD": "2018",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2013,
+    "persons": 80645605,
+    "raw_value": "80645605",
+    "dimensions": {
+      "TIME_PERIOD": "2013",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2014,
+    "persons": 80982495,
+    "raw_value": "80982495",
+    "dimensions": {
+      "TIME_PERIOD": "2014",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2015,
+    "persons": 81686608,
+    "raw_value": "81686608",
+    "dimensions": {
+      "TIME_PERIOD": "2015",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2016,
+    "persons": 82348669,
+    "raw_value": "82348669",
+    "dimensions": {
+      "TIME_PERIOD": "2016",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2017,
+    "persons": 82657000,
+    "raw_value": "82657000",
+    "dimensions": {
+      "TIME_PERIOD": "2017",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2018,
+    "persons": 82905788,
+    "raw_value": "82905788",
+    "dimensions": {
+      "TIME_PERIOD": "2018",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2019,
+    "persons": 83092956,
+    "raw_value": "83092956",
+    "dimensions": {
+      "TIME_PERIOD": "2019",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2010,
+    "persons": 49554112,
+    "raw_value": "49554112",
+    "dimensions": {
+      "TIME_PERIOD": "2010",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2011,
+    "persons": 49936638,
+    "raw_value": "49936638",
+    "dimensions": {
+      "TIME_PERIOD": "2011",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2012,
+    "persons": 50199853,
+    "raw_value": "50199853",
+    "dimensions": {
+      "TIME_PERIOD": "2012",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2013,
+    "persons": 50428893,
+    "raw_value": "50428893",
+    "dimensions": {
+      "TIME_PERIOD": "2013",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2010,
+    "persons": 128057352,
+    "raw_value": "128057352",
+    "dimensions": {
+      "TIME_PERIOD": "2010",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2011,
+    "persons": 127834233,
+    "raw_value": "127834233",
+    "dimensions": {
+      "TIME_PERIOD": "2011",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2012,
+    "persons": 127592657,
+    "raw_value": "127592657",
+    "dimensions": {
+      "TIME_PERIOD": "2012",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2013,
+    "persons": 127413888,
+    "raw_value": "127413888",
+    "dimensions": {
+      "TIME_PERIOD": "2013",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2014,
+    "persons": 127237150,
+    "raw_value": "127237150",
+    "dimensions": {
+      "TIME_PERIOD": "2014",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2015,
+    "persons": 127094745,
+    "raw_value": "127094745",
+    "dimensions": {
+      "TIME_PERIOD": "2015",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2019,
+    "persons": 51764822,
+    "raw_value": "51764822",
+    "dimensions": {
+      "TIME_PERIOD": "2019",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2020,
+    "persons": 51836239,
+    "raw_value": "51836239",
+    "dimensions": {
+      "TIME_PERIOD": "2020",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2022,
+    "persons": 51672569,
+    "raw_value": "51672569",
+    "dimensions": {
+      "TIME_PERIOD": "2022",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2021,
+    "persons": 51769539,
+    "raw_value": "51769539",
+    "dimensions": {
+      "TIME_PERIOD": "2021",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2024,
+    "persons": 123801750,
+    "raw_value": "123801750",
+    "dimensions": {
+      "TIME_PERIOD": "2024",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2024,
+    "persons": 51751065,
+    "raw_value": "51751065",
+    "dimensions": {
+      "TIME_PERIOD": "2024",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2023,
+    "persons": 124351877,
+    "raw_value": "124351877",
+    "dimensions": {
+      "TIME_PERIOD": "2023",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2023,
+    "persons": 51712619,
+    "raw_value": "51712619",
+    "dimensions": {
+      "TIME_PERIOD": "2023",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2010,
+    "persons": 309378227,
+    "raw_value": "309378227",
+    "dimensions": {
+      "TIME_PERIOD": "2010",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2010,
+    "persons": 81776936,
+    "raw_value": "81776936",
+    "dimensions": {
+      "TIME_PERIOD": "2010",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2011,
+    "persons": 80274981,
+    "raw_value": "80274981",
+    "dimensions": {
+      "TIME_PERIOD": "2011",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2012,
+    "persons": 80425826,
+    "raw_value": "80425826",
+    "dimensions": {
+      "TIME_PERIOD": "2012",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2016,
+    "persons": 127041812,
+    "raw_value": "127041812",
+    "dimensions": {
+      "TIME_PERIOD": "2016",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2014,
+    "persons": 319257560,
+    "raw_value": "319257560",
+    "dimensions": {
+      "TIME_PERIOD": "2014",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2015,
+    "persons": 321815121,
+    "raw_value": "321815121",
+    "dimensions": {
+      "TIME_PERIOD": "2015",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2016,
+    "persons": 324353340,
+    "raw_value": "324353340",
+    "dimensions": {
+      "TIME_PERIOD": "2016",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "JPN",
+    "year": 2017,
+    "persons": 126918546,
+    "raw_value": "126918546",
+    "dimensions": {
+      "TIME_PERIOD": "2017",
+      "REF_AREA": "JPN",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "KOR",
+    "year": 2014,
+    "persons": 50746659,
+    "raw_value": "50746659",
+    "dimensions": {
+      "TIME_PERIOD": "2014",
+      "REF_AREA": "KOR",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "DEU",
+    "year": 2024,
+    "persons": 83516599,
+    "raw_value": "83516599",
+    "dimensions": {
+      "TIME_PERIOD": "2024",
+      "REF_AREA": "DEU",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "oecd",
+    "country": "USA",
+    "year": 2024,
+    "persons": 340003797,
+    "raw_value": "340003797",
+    "dimensions": {
+      "TIME_PERIOD": "2024",
+      "REF_AREA": "USA",
+      "MEASURE": "POP",
+      "UNIT_MEASURE": "PS",
+      "SEX": "_T",
+      "AGE": "_T",
+      "TIME_HORIZ": "H"
+    },
+    "attributes": {
+      "DECIMALS": "0",
+      "OBS_STATUS": "A",
+      "UNIT_MULT": "0"
+    },
+    "raw_file": "raw/oecd-population.xml"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2024,
+    "persons": 83516593,
+    "raw_value": 83516593,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2023,
+    "persons": 83287273,
+    "raw_value": 83287273,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "Break in series.",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2022,
+    "persons": 83177813,
+    "raw_value": 83177813,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "Break in series.",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2021,
+    "persons": 83196078,
+    "raw_value": 83196078,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2020,
+    "persons": 83160871,
+    "raw_value": 83160871,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2019,
+    "persons": 83092962,
+    "raw_value": 83092962,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2018,
+    "persons": 82905782,
+    "raw_value": 82905782,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2017,
+    "persons": 82657002,
+    "raw_value": 82657002,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2016,
+    "persons": 82348669,
+    "raw_value": 82348669,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2015,
+    "persons": 81686611,
+    "raw_value": 81686611,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2014,
+    "persons": 80982500,
+    "raw_value": 80982500,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2013,
+    "persons": 80645605,
+    "raw_value": 80645605,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2012,
+    "persons": 80425823,
+    "raw_value": 80425823,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2011,
+    "persons": 80274983,
+    "raw_value": 80274983,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "Break in series.",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "DEU",
+    "year": 2010,
+    "persons": 81776930,
+    "raw_value": 81776930,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2024,
+    "persons": 123975371,
+    "raw_value": 123975371,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2023,
+    "persons": 124516650,
+    "raw_value": 124516650,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2022,
+    "persons": 125124989,
+    "raw_value": 125124989,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2021,
+    "persons": 125681593,
+    "raw_value": 125681593,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2020,
+    "persons": 126261000,
+    "raw_value": 126261000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2019,
+    "persons": 126633000,
+    "raw_value": 126633000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2018,
+    "persons": 126811000,
+    "raw_value": 126811000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2017,
+    "persons": 126972000,
+    "raw_value": 126972000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2016,
+    "persons": 127076000,
+    "raw_value": 127076000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2015,
+    "persons": 127141000,
+    "raw_value": 127141000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2014,
+    "persons": 127276000,
+    "raw_value": 127276000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2013,
+    "persons": 127445000,
+    "raw_value": 127445000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2012,
+    "persons": 127629000,
+    "raw_value": 127629000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2011,
+    "persons": 127833000,
+    "raw_value": 127833000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "JPN",
+    "year": 2010,
+    "persons": 128070000,
+    "raw_value": 128070000,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2024,
+    "persons": 51751065,
+    "raw_value": 51751065,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2023,
+    "persons": 51712619,
+    "raw_value": 51712619,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2022,
+    "persons": 51672569,
+    "raw_value": 51672569,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2021,
+    "persons": 51769539,
+    "raw_value": 51769539,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2020,
+    "persons": 51836239,
+    "raw_value": 51836239,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2019,
+    "persons": 51764822,
+    "raw_value": 51764822,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2018,
+    "persons": 51585058,
+    "raw_value": 51585058,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2017,
+    "persons": 51361911,
+    "raw_value": 51361911,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2016,
+    "persons": 51217803,
+    "raw_value": 51217803,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2015,
+    "persons": 51014947,
+    "raw_value": 51014947,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2014,
+    "persons": 50746659,
+    "raw_value": 50746659,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2013,
+    "persons": 50428893,
+    "raw_value": 50428893,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2012,
+    "persons": 50199853,
+    "raw_value": 50199853,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2011,
+    "persons": 49936638,
+    "raw_value": 49936638,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "KOR",
+    "year": 2010,
+    "persons": 49554112,
+    "raw_value": 49554112,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2024,
+    "persons": 340003797,
+    "raw_value": 340003797,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2023,
+    "persons": 336755052,
+    "raw_value": 336755052,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2022,
+    "persons": 333996304,
+    "raw_value": 333996304,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2021,
+    "persons": 332100166,
+    "raw_value": 332100166,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2020,
+    "persons": 331578104,
+    "raw_value": 331578104,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2019,
+    "persons": 330226227,
+    "raw_value": 330226227,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2018,
+    "persons": 328529577,
+    "raw_value": 328529577,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2017,
+    "persons": 326608609,
+    "raw_value": 326608609,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2016,
+    "persons": 324353340,
+    "raw_value": 324353340,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2015,
+    "persons": 321815121,
+    "raw_value": 321815121,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2014,
+    "persons": 319257560,
+    "raw_value": 319257560,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2013,
+    "persons": 316726282,
+    "raw_value": 316726282,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2012,
+    "persons": 314339099,
+    "raw_value": 314339099,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2011,
+    "persons": 311839461,
+    "raw_value": 311839461,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  },
+  {
+    "source": "worldbank",
+    "country": "USA",
+    "year": 2010,
+    "persons": 309378227,
+    "raw_value": 309378227,
+    "attributes": {
+      "obs_status": "",
+      "footnote": "",
+      "unit": "",
+      "decimal": 0
+    },
+    "raw_file": "raw/worldbank-population.json"
+  }
+]

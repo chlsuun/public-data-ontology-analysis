@@ -1,0 +1,17 @@
+{
+  "url": "https://api.worldbank.org/v2/sources/2/country/KOR;JPN;DEU;USA/series/SP.POP.TOTL/metadata?format=json",
+  "started_at": "2026-09-15T13:14:42.282083+00:00",
+  "accept": "application/json",
+  "byte_limit": 12000000,
+  "status": 200,
+  "final_url": "https://api.worldbank.org/v2/sources/2/country/KOR;JPN;DEU;USA/series/SP.POP.TOTL/metadata?format=json",
+  "headers": {
+    "Date": "Tue, 15 Sep 2026 13:14:43 GMT",
+    "Content-Type": "application/json;charset=utf-8",
+    "Last-Modified": "Tue, 15 Sep 2026 13:14:43 GMT"
+  },
+  "bytes": 12875,
+  "sha256": "fe1f47bb1b3652e1aa3c6998ac81b36ac18407a05cc50265c1d08306ba67af89",
+  "file": "worldbank-country-series-metadata.json",
+  "finished_at": "2026-09-15T13:14:42.752372+00:00"
+}

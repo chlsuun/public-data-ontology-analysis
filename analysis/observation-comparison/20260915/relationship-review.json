@@ -1,0 +1,42 @@
+{
+  "status": "analysis_completed_pending_human_review",
+  "proposed_predicate": "conditionallyComparableWith",
+  "from": "oecd:OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST|POP.PS._T._T.H",
+  "to": "worldbank:source-2|SP.POP.TOTL",
+  "concept": "annual national total population",
+  "scope": {
+    "countries": [
+      "KOR",
+      "JPN",
+      "DEU",
+      "USA"
+    ],
+    "years": [
+      2010,
+      2024
+    ]
+  },
+  "conditions": [
+    "country and year must match",
+    "total sexes and ages",
+    "normalize persons",
+    "preserve reference-date and break metadata",
+    "preserve upstream source and revision vintage"
+  ],
+  "evidence": [
+    "result.json",
+    "qa.json",
+    "raw/worldbank-country-series-metadata.json",
+    "oecd-country-metadata-extract.json"
+  ],
+  "not_established": [
+    "sameAs",
+    "causes",
+    "independent validation",
+    "all portal datasets are comparable"
+  ],
+  "reviewer": null,
+  "reviewed_at": null,
+  "model_json_modified": false,
+  "server_db_modified": false
+}

@@ -1,0 +1,45 @@
+{
+  "scope": "observed examples requiring semantic review; not exhaustive",
+  "flags": [
+    {
+      "source_id": "eu",
+      "source_name": "data.europa.eu",
+      "field": "license",
+      "value": "http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/conditionsUnknown",
+      "rows": 38122,
+      "interpretation": "조건 미확인을 나타내는 코드 URL도 1차 문자열 기재에 포함된다. 알려진 재사용 조건의 확보율로 해석하면 안 된다.",
+      "status": "needs_semantic_review",
+      "counts_reclassified": false
+    },
+    {
+      "source_id": "us",
+      "source_name": "Data.gov",
+      "field": "region",
+      "value": ",,,",
+      "rows": 4493,
+      "interpretation": "구분자만 있는 문자열이다. 1차 기재율에 포함되지만 실제 지역 범위로 사용할 수 없다.",
+      "status": "needs_semantic_review",
+      "counts_reclassified": false
+    },
+    {
+      "source_id": "worldbank",
+      "source_name": "World Bank Open Data",
+      "field": "region",
+      "value": "여러 국가·지역",
+      "rows": 71,
+      "interpretation": "포괄적 범위 표기다. 구체적인 국가 코드나 공간 해상도가 확보됐다는 뜻은 아니다.",
+      "status": "needs_semantic_review",
+      "counts_reclassified": false
+    },
+    {
+      "source_id": "eu",
+      "source_name": "data.europa.eu",
+      "field": "period",
+      "value": "1900-01-01T00:00:00Z",
+      "rows": 16902,
+      "interpretation": "실제 관측 범위인지 기본 날짜 표기인지 원문 검토가 필요하다. 자동 오류 판정은 하지 않았다.",
+      "status": "needs_semantic_review",
+      "counts_reclassified": false
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "checked_at": "2026-09-15T11:33:10.462003+00:00",
+  "passed": true,
+  "archive_publication": {
+    "verified_at": "2026-09-15T10:55:43.911849+00:00",
+    "branch": "codex/server-catalog-analysis-20260915",
+    "archive_commit": "cf35f5fa8877b0c5e645443f9a765ed3cd38977b",
+    "remote": "origin",
+    "repository": "chlsuun/public-data-ontology",
+    "remote_head_matches": true,
+    "main_unchanged": true,
+    "files": 83,
+    "checks": {
+      "python_json_syntax": "passed",
+      "powershell_syntax": "passed",
+      "browser_javascript_syntax": "passed",
+      "fisis_source_checks": 11,
+      "law_source_checks": 9,
+      "fisis_company_checks": 5,
+      "staged_whitespace": "passed",
+      "credential_pattern_scan": "no_findings"
+    }
+  },
+  "analysis_row_count": 3815931,
+  "comparison_denominator": 3705350,
+  "source_count": 40,
+  "duplicate_partition": "passed",
+  "field_denominators": "passed",
+  "classification_partition": "passed",
+  "script_hash_matches_executed_bytes": true,
+  "ui_logic_checks": {
+    "passed": true,
+    "mode": "generated HTML with DOM adapter; no screenshot or live-browser claim",
+    "sources": 40,
+    "domestic": 16,
+    "foreign": 24,
+    "checks": [
+      "initial table",
+      "domestic filter",
+      "foreign filter",
+      "KOSIS search",
+      "score sort",
+      "populated source detail",
+      "database-series source detail",
+      "empty source detail",
+      "all DOM targets exist",
+      "no undefined/NaN detail values"
+    ]
+  },
+  "unit_and_renderer_tests": {
+    "tests": 3,
+    "passed": true
+  },
+  "live_browser_screenshot_verified": false,
+  "artifacts": [
+    {
+      "path": "index.html",
+      "bytes": 482086,
+      "sha256": "2bdea043a3baf3db6420f433553651ac69d1a324ef0184f3afb8b7c87aa63bac"
+    },
+    {
+      "path": "interpretation-flags.json",
+      "bytes": 1773,
+      "sha256": "a12ea4260163b8637b098bb678f4a9d3a8f25066b46d1386a8142890945405dd"
+    },
+    {
+      "path": "report.json",
+      "bytes": 3483258,
+      "sha256": "d515a1e2a2577d6e51118af38edaf97b1dc55e277fcd1c2d5723d665466027b7"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 15306,
+      "sha256": "d0aedbdb2e358fb1c9a1b0e4553218939bebeb18913b40a77540144cfdf0e4c8"
+    },
+    {
+      "path": "review-candidates.json",
+      "bytes": 83180,
+      "sha256": "e68f52543a2b640bf914c6bc4d0de9560b4853b943680453b7a2dfa47c0c6c63"
+    }
+  ]
+}

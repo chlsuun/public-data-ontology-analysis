@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-09-15T15:19:28.811965+00:00",
+  "tests_run": 3,
+  "failures": 0,
+  "errors": 0,
+  "passed": true,
+  "coverage": [
+    "unit scaling and missing/invalid values",
+    "duplicate and unexpected key rejection",
+    "independent raw XML/JSON values for all 60 pairs",
+    "NumPy comparison of all country metrics",
+    "consecutive-year intervals after exclusions",
+    "country metadata cells against unchanged XLSX",
+    "all download SHA-256 receipts",
+    "human approval remains pending"
+  ],
+  "script_sha256": {
+    "analyze_observation_comparison.py": "60d33935c2b4ade20047e34a1f249df0324ee3b56e75e2e45c64c3519910d92a",
+    "render_observation_comparison.py": "4868c6988f9277dde46647786829b9b7062cfffe0c8775c68ea9b05ec0d49640",
+    "test_observation_comparison.py": "f469390f76a81ec425c1f5cff110c0411dedbb178f51a716e94fa80ec349822c"
+  }
+}

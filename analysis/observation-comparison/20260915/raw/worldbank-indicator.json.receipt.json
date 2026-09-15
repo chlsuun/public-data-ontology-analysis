@@ -1,0 +1,17 @@
+{
+  "url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?format=json&source=2",
+  "started_at": "2026-09-15T13:11:57.070213+00:00",
+  "accept": "application/json",
+  "byte_limit": 12000000,
+  "status": 200,
+  "final_url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?format=json&source=2",
+  "headers": {
+    "Date": "Tue, 15 Sep 2026 13:11:58 GMT",
+    "Content-Type": "application/json;charset=utf-8",
+    "Last-Modified": "Mon, 14 Sep 2026 05:09:33 GMT"
+  },
+  "bytes": 1099,
+  "sha256": "2f8491efc00bf2c0995112ff8e87aba69e5e9d22d0880b22f7e3a4ec757ba05c",
+  "file": "worldbank-indicator.json",
+  "finished_at": "2026-09-15T13:11:57.185586+00:00"
+}

@@ -1,0 +1,283 @@
+{
+  "source_project": "chlsuun/public-data-ontology",
+  "analysis_snapshot": "20260915",
+  "copied_on": "2026-09-16",
+  "purpose": "Separate repository for metadata and observation analysis",
+  "files": [
+    {
+      "path": "analysis/observation-comparison/20260915/analysis-plan.json",
+      "bytes": 673,
+      "source_sha256": "cbaa77a1a54be3159ddb93ddbf6c2ae1c64b4483485d739972ae5a7b80802873"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/gaps.png",
+      "bytes": 120138,
+      "source_sha256": "9f510a91062645b090600b4151c96e4e438d12a7e39c63cbc3edc56d8ad23d35"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/gaps.svg",
+      "bytes": 48024,
+      "source_sha256": "c60f3ebe306f5bdbe07745996bcaa030b96c747276816e9ce8735a30ee359920"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/growth.png",
+      "bytes": 200473,
+      "source_sha256": "7085fa81098eccf600aba345c77a4a449b137150f291936336d325185c9c62e2"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/growth.svg",
+      "bytes": 56149,
+      "source_sha256": "c21e22738da91fff963b76a834dd7c843655fc60144e69368239510429f55732"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/index.html",
+      "bytes": 726673,
+      "source_sha256": "4d7e4ef0890bc1809057db849a04604d40d933a653924b2e2521da8cf3736e9d"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/levels.png",
+      "bytes": 176987,
+      "source_sha256": "f1d87dcaa2e9edb26f7e6e2c89579b05646967990111fdfd6ef4adda046bf2db"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/levels.svg",
+      "bytes": 49116,
+      "source_sha256": "92cab2746f23450f6817eca525b16a23e718edc662ee39bd34de2c29c22ec7bc"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/normalized-observations.json",
+      "bytes": 47091,
+      "source_sha256": "64df4ee8c4d2198c67658238ff9504245d963899838dc66ea2c9a20b0b39ac82"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/oecd-country-metadata-extract.json",
+      "bytes": 1567,
+      "source_sha256": "bc838693f06445450627386765c8a3b887a0bc07958f3d879c6bc40d761e87a3"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/paired-observations.json",
+      "bytes": 17590,
+      "source_sha256": "e63abf13a346c763017c4065d89355afee03464b108da2708ae4c60cf437df0a"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/process.json",
+      "bytes": 2441,
+      "source_sha256": "89e9a1921941424938b17757d33b24d6ffeb172e087d46ad75ef782a3b080a6a"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/qa.json",
+      "bytes": 737,
+      "source_sha256": "c5c6ed07daf5a86e2e18c2c3f428fab015849d79306a5b9297e68764700a4790"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/oecd-country-metadata.xlsx",
+      "bytes": 16012,
+      "source_sha256": "ffc02b6b0265c79e5c7688f5830e7663bf6b26fe46d5aa9963272a7e2df20037"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/oecd-country-metadata.xlsx.receipt.json",
+      "bytes": 872,
+      "source_sha256": "dc16f3f9e0d095732f9d3a3d71d3a540d7f24b347566d49b8b57132a2cb91124"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/oecd-population.xml",
+      "bytes": 34787,
+      "source_sha256": "1fad5ea2aa11d01c6187af0daf5ac20e9d1eb5b7e5d295d32d2405f166b0c949"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/oecd-population.xml.receipt.json",
+      "bytes": 982,
+      "source_sha256": "a331a64ff532555f9f2288f3afa528dc23b3750d29bb8555171f80700d0fc1a0"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/oecd-structure.xml",
+      "bytes": 1156313,
+      "source_sha256": "cbb0d3307e0d7218acdfa769666f3b93a34d8d698bd592dc27fdf81676673480"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/oecd-structure.xml.receipt.json",
+      "bytes": 779,
+      "source_sha256": "b9893bc1dd4e6be2fa5ca9a6850054f5768eef2900a148c41012b8be941b5115"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-country-series-metadata.json",
+      "bytes": 12875,
+      "source_sha256": "fe1f47bb1b3652e1aa3c6998ac81b36ac18407a05cc50265c1d08306ba67af89"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-country-series-metadata.json.receipt.json",
+      "bytes": 756,
+      "source_sha256": "4ee1df95c2548c4989de626d0e4bfc4f9396f2382cb41e5a95f96dba5ac253a4"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-indicator.json",
+      "bytes": 1099,
+      "source_sha256": "2f8491efc00bf2c0995112ff8e87aba69e5e9d22d0880b22f7e3a4ec757ba05c"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-indicator.json.receipt.json",
+      "bytes": 679,
+      "source_sha256": "2533c850743fd3f35f7235f08714ba142507476d514dabacfa37d684cf0ba04f"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-population.json",
+      "bytes": 12891,
+      "source_sha256": "feb7cfc0f6a1391c89112f2c435ef47a99b5e463e96fa1057f5e728be3bd0d96"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-population.json.receipt.json",
+      "bytes": 809,
+      "source_sha256": "218df2ef8775c63c3b0eb3cd54e84335de20ac475725d8d1e444e86fd576be74"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-series-metadata.json",
+      "bytes": 6149,
+      "source_sha256": "b4714840da2190cbfde93647e3d8ed20463fe8254af42903ae9512b08add10ff"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/raw/worldbank-series-metadata.json.receipt.json",
+      "bytes": 699,
+      "source_sha256": "6712e9f878aac8a8fc30459224a995cbe82c849a77a2aeb77e1f78990a04ffbc"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/relationship-review.json",
+      "bytes": 1048,
+      "source_sha256": "2a60f93f09ce5d699db7b72ed8e538e515a58340d7138e0c8f659eebdaef243a"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/REPORT.md",
+      "bytes": 9639,
+      "source_sha256": "4fc27b828c8c5bb3430cf28998a1da8b824301cdeba9c84bf455ac8c6fb586fd"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/result.json",
+      "bytes": 54258,
+      "source_sha256": "427feda0179fef2d872d68969b7949c620a2d2d62f6b840dc724661426ebfc8a"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/server-catalog-selection.json",
+      "bytes": 12211,
+      "source_sha256": "e0d657cb72ea770cc349ab519a64f3d7e8e3d4255df89517bc538408e0015325"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/ui-validation.json",
+      "bytes": 636,
+      "source_sha256": "082fc0aece91082401f4acb55bcffb5ac39cc2b71b6047fd38917d42d5db56eb"
+    },
+    {
+      "path": "analysis/observation-comparison/20260915/validation.json",
+      "bytes": 886,
+      "source_sha256": "0afb89c4884c09a4fd34c23a06ab9c39e24ac26d32d8e0d13d3f9499e4b267ca"
+    },
+    {
+      "path": "analysis/observation-comparison/README.md",
+      "bytes": 4003,
+      "source_sha256": "9a7cd63934af3f6b06c44c156a1686a693e1c15835fb937de8ed9b44b74a6b5d"
+    },
+    {
+      "path": "analysis/server-catalog/.gitignore",
+      "bytes": 30,
+      "source_sha256": "42f20a8b026a6a2180d0f3c3316d47110a0825aa6732a650a9010a50ab6d4b16"
+    },
+    {
+      "path": "analysis/server-catalog/20260915/index.html",
+      "bytes": 482539,
+      "source_sha256": "9394c669c56f190cef4bc1f9b344812c23cafff9a1d04df1be9cf1745b791a79"
+    },
+    {
+      "path": "analysis/server-catalog/20260915/interpretation-flags.json",
+      "bytes": 1773,
+      "source_sha256": "a12ea4260163b8637b098bb678f4a9d3a8f25066b46d1386a8142890945405dd"
+    },
+    {
+      "path": "analysis/server-catalog/20260915/report.json",
+      "bytes": 3483258,
+      "source_sha256": "d515a1e2a2577d6e51118af38edaf97b1dc55e277fcd1c2d5723d665466027b7"
+    },
+    {
+      "path": "analysis/server-catalog/20260915/REPORT.md",
+      "bytes": 15306,
+      "source_sha256": "d0aedbdb2e358fb1c9a1b0e4553218939bebeb18913b40a77540144cfdf0e4c8"
+    },
+    {
+      "path": "analysis/server-catalog/20260915/review-candidates.json",
+      "bytes": 83180,
+      "source_sha256": "e68f52543a2b640bf914c6bc4d0de9560b4853b943680453b7a2dfa47c0c6c63"
+    },
+    {
+      "path": "analysis/server-catalog/20260915/validation.json",
+      "bytes": 2478,
+      "source_sha256": "9bf9a5943c22943a95140661c9a9a8c12cd0db41ed082e83f0299795b638e66b"
+    },
+    {
+      "path": "analysis/server-catalog/qa-policy.json",
+      "bytes": 5613,
+      "source_sha256": "9b22d6cff5c2e5078dd386d6dae4b19d535a1c696461a86e131215f59779c746"
+    },
+    {
+      "path": "analysis/server-catalog/README.md",
+      "bytes": 6083,
+      "source_sha256": "339cb2505f0a1e2742c1c8a6fb063a9e88eab818a5b7ed919f1932c53857bcb2"
+    },
+    {
+      "path": "scripts/analyze_observation_comparison.py",
+      "bytes": 16452,
+      "source_sha256": "60d33935c2b4ade20047e34a1f249df0324ee3b56e75e2e45c64c3519910d92a"
+    },
+    {
+      "path": "scripts/analyze_server_catalog.py",
+      "bytes": 20182,
+      "source_sha256": "e864b3356ad8123f0b07e83d1f16078cb99b60d38b93c2e59c78d3e56b7ab3db"
+    },
+    {
+      "path": "scripts/check_observation_report.mjs",
+      "bytes": 3586,
+      "source_sha256": "0a88eefc7a42c75e20e21b0f04e3e18f4d38eae5aacbe00f54defeb5e0888be0"
+    },
+    {
+      "path": "scripts/check_server_catalog_report.mjs",
+      "bytes": 2816,
+      "source_sha256": "6787d756d4bd0da3df4f1df0b149c34a4b1a54206cd1586599dea570170090fb"
+    },
+    {
+      "path": "scripts/fetch_observation_evidence.py",
+      "bytes": 2339,
+      "source_sha256": "0700e9d16b77ed0e55a80b2cd209792d47039ec7a5018676511652c55937fdb8"
+    },
+    {
+      "path": "scripts/observation_comparison.template.html",
+      "bytes": 20134,
+      "source_sha256": "7c5465bb03683d11c641261de0a754ac3e692cd850638915fc42a8ff11142ed6"
+    },
+    {
+      "path": "scripts/render_observation_comparison.py",
+      "bytes": 13955,
+      "source_sha256": "4868c6988f9277dde46647786829b9b7062cfffe0c8775c68ea9b05ec0d49640"
+    },
+    {
+      "path": "scripts/render_server_catalog_analysis.py",
+      "bytes": 17894,
+      "source_sha256": "e0e61f17f84ce264525c30ee2481b0d6a29e10235bba6c328ffbbdc167d9fc64"
+    },
+    {
+      "path": "scripts/run_server_catalog_analysis.py",
+      "bytes": 3070,
+      "source_sha256": "33b2afdd40d54113e1983b5a757fdef7741ff97e9c617d03e3c7136cd16962d4"
+    },
+    {
+      "path": "scripts/server_catalog_report.template.html",
+      "bytes": 18481,
+      "source_sha256": "6d149462ce592e930d77be957842525167dbac8f6484935bc19e28418a0a7ed2"
+    },
+    {
+      "path": "scripts/test_observation_comparison.py",
+      "bytes": 5618,
+      "source_sha256": "f469390f76a81ec425c1f5cff110c0411dedbb178f51a716e94fa80ec349822c"
+    },
+    {
+      "path": "scripts/test_server_catalog_analysis.py",
+      "bytes": 5618,
+      "source_sha256": "96a5e87e623d1e6bf91cdb257efa6c13a49ad9b607b812fb8f707c2c51b9354d"
+    }
+  ]
+}

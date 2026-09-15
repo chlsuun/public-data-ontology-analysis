@@ -1,0 +1,19 @@
+{
+  "url": "https://www.oecd.org/content/dam/oecd/en/data/datasets/employability-data/MD_POPHIST.xlsx",
+  "started_at": "2026-09-15T13:13:02.244810+00:00",
+  "accept": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "byte_limit": 12000000,
+  "status": 200,
+  "final_url": "https://www.oecd.org/content/dam/oecd/en/data/datasets/employability-data/MD_POPHIST.xlsx",
+  "headers": {
+    "Date": "Tue, 15 Sep 2026 13:13:04 GMT",
+    "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "Content-Length": "16012",
+    "Last-Modified": "Thu, 02 Oct 2025 13:27:38 GMT",
+    "ETag": "\"0x8DE01B77520F264\""
+  },
+  "bytes": 16012,
+  "sha256": "ffc02b6b0265c79e5c7688f5830e7663bf6b26fe46d5aa9963272a7e2df20037",
+  "file": "oecd-country-metadata.xlsx",
+  "finished_at": "2026-09-15T13:13:03.539526+00:00"
+}

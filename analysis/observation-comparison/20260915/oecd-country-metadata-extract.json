@@ -1,0 +1,75 @@
+[
+  {
+    "sheet": "Sources",
+    "row": 1,
+    "cells": {}
+  },
+  {
+    "sheet": "Sources",
+    "row": 2,
+    "cells": {}
+  },
+  {
+    "sheet": "Sources",
+    "row": 3,
+    "cells": {
+      "A3": "Code",
+      "C3": "Eurostat, UN Demographic Yearbook or national data",
+      "D3": "National estimates",
+      "E3": "UN Population Prospects\n(2024 revision)",
+      "F3": "Breaks and notes"
+    }
+  },
+  {
+    "sheet": "Sources",
+    "row": 4,
+    "cells": {
+      "A4": "Argentina",
+      "B4": "ARG",
+      "E4": "1950-2024",
+      "F4": "New 2011-2024 estimates"
+    }
+  },
+  {
+    "sheet": "Sources",
+    "row": 23,
+    "cells": {
+      "A23": "Germany",
+      "B23": "DEU",
+      "C23": "1951-2024",
+      "E23": 1950,
+      "F23": "2010/11: introduction of new series benchmarks. 2023-2024 (estimated based on 1st January estimates)"
+    }
+  },
+  {
+    "sheet": "Sources",
+    "row": 32,
+    "cells": {
+      "A32": "Japan",
+      "B32": "JPN",
+      "C32": "1950-2024",
+      "F32": "New 2024 October estimates"
+    }
+  },
+  {
+    "sheet": "Sources",
+    "row": 33,
+    "cells": {
+      "A33": "Korea",
+      "B33": "KOR",
+      "C33": "1960-2024",
+      "E33": "1950-1959",
+      "F33": "New 2021-2024 estimates"
+    }
+  },
+  {
+    "sheet": "Sources",
+    "row": 57,
+    "cells": {
+      "A57": "United States",
+      "B57": "USA",
+      "C57": "1950-2024",
+      "F57": "1979/80: resident population only as of 1980. Prior to 1980 the data include overseas armed forces."
+    }
+  }
+]
